@@ -3465,3 +3465,122 @@ section.logo-gallery {}
 
 
 /*Email NewsLetter End*/
+
+
+/* inner page common */
+
+section.page-header {
+    height: 350px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    background-size: cover;
+    position: relative;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-color: #101644;
+    background-attachment: fixed;
+}
+
+section.page-header * {
+    color: #fff;
+}
+
+section.page-header h1.abs-head {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 104px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    color: #ffc0bb38;
+    line-height: 1;
+    text-transform: unset;
+}
+
+section.page-header h1 {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* inner page common end */
+
+/* Contact Page */
+
+ul.info-box li:after {content: '';display: table;clear: both;border-bottom: 1px solid #fdd8a1;width: 100%;position: absolute;bottom: 0px;left: 0;}
+
+ul.info-box li {
+    list-style: none;
+}
+
+ul.info-box li span.icon-box {
+    display: flex;
+    width: 55px;
+    height: 55px;
+    background: #ffe8e5;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid #fdd8a1;
+    margin-right: 15px;
+}
+
+ul.info-box li span.icon-box i {
+    font-size: 26px;
+    color: #fd3939;
+}
+
+ul.info-box {
+    padding: 0;
+    margin-bottom: 30px;
+}
+
+ul.info-box li {
+    padding: 20px 10px;
+    background: #fff;
+    box-shadow: 0 4px 10px #ffe1e1;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+section#form-section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+section#form-section .content-box h4 {
+    font-size: 18px;
+    color: #fb5247;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+.content-box a {
+    font-size: 14px;
+    color: #404b88;
+    font-weight: 500;
+}
+
+.content-box {
+    padding-top: 5px;
+}
+
+section#form-section h4 {
+    font-size: 23px;
+    color: #253278;
+    font-weight: 700;
+}
+
+section#form-section hr {
+    border-top: 1px solid #fdd8a1;
+    width: 100%;
+    margin-left: 0;
+}
+
+/* Contact Page End */
+

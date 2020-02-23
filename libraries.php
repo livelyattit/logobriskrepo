@@ -43,7 +43,7 @@
         $(window).scroll(function() {
 
             let scroll = $(window).scrollTop();
-            if (scroll >= 100) {
+            if (scroll >= 40) {
                 $('body').addClass('scrolling');
                 //  $('.main-wrapper').css('padding-top', '360px');
             } else {

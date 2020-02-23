@@ -52,7 +52,7 @@
                                 <li class="menu-item"><a href="#">VIDEO</a></li>
                                 <li class="menu-item"><a href="#">PORTFOLIO</a></li>
                                 <li class="menu-item"><a href="#">PACKAGES</a></li>
-                                <li class="menu-item"><a href="#">CONTACT</a></li>
+                                <li class="menu-item"><a href="contact.php">CONTACT</a></li>
                             </nav>
                         </div>
 
@@ -76,7 +76,7 @@
                         <a class="nav-item" href="">VIDEO</a>
                         <a class="nav-item" href="">PORTFOLIO</a>
                         <a class="nav-item" href="">PACKAGES</a>
-                        <a class="nav-item" href="">CONTACT</a>
+                        <a class="nav-item" href="contact.php">CONTACT</a>
                     </nav>
 
 
