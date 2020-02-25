@@ -21,5 +21,16 @@
     <link rel="stylesheet" href="./css/bundeled.css?ver=1" async>
     <link rel="stylesheet" href="./css/style.css?ver=1" async>
     <link rel="stylesheet" href="./css/responsive.css?ver=1" async>
-    <title>Home</title>
-</head>
+
+    <?php
+    $color = "#f7351d";
+    //this is for Chrome, Firefox OS, Opera and Vivaldi
+    echo '<meta name="theme-color" content="'.$color.'">';
+    //Windows Phone **
+    echo '<meta name="msapplication-navbutton-color" content="'.$color.'">';
+    // iOS Safari
+    echo '<meta name="apple-mobile-web-app-capable" content="yes">';
+    echo '<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">';
+    
+    
+    ?>

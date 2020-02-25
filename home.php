@@ -1,5 +1,8 @@
 <?php include "head.php"; ?>
 
+<title>Home</title>
+</head>
+
 <body class="home">
     <div class="content-wrapper">
         <?php include "header.php"; ?>
@@ -182,7 +185,7 @@
                 <section id="section-details" class="section">
                     <div class="container">
                         <div class="row row-eq-height align-items-center">
-                            <div class="col-8 col-sm-8">
+                            <div class="col-6 col-sm-6">
 
                                 <div class="content">
                                     <h1> Entice your Customers with Custom Logo Design For your Business </h1>
@@ -193,23 +196,83 @@
                                 </div>
 
                             </div>
-                            <div class="col-4">
-                                <img src="./images/quote-1.webp">
+                            <div class="col-6">
+                                <!-- <img src="./images/logo-about.webp"> -->
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4 col-md-4 col-sm-6">
+                                        <div class="single-brand-item d-table" style="height: 160px;border-color: #f7351d;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo1.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;top: -5px;">
+                                        <div class="single-brand-item d-table" style="height: 130px;border-color: #253278;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo2.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6">
+                                        <div class="single-brand-item d-table" style="border-color: #fea41f;height: 140px;margin-bottom: 30px;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo3.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;/* top: -14px; */">
+                                        <div class="single-brand-item d-table" style="height: 120px;border-color: #253278;margin-bottom: -10px;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo4.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;/* top: -14px; */">
+                                        <div class="single-brand-item d-table" style="height: 130px;border-color: #f7351d;margin-bottom: 21px;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo5.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;/* top: -14px; */">
+                                        <div class="single-brand-item d-table" style="height: 160px;border-color: #00ff37;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo6.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;/* top: -14px; */">
+                                        <div class="single-brand-item d-table" style="height: 150px;border-color: #fea41f;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo7.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;/* top: -14px; */">
+                                        <div class="single-brand-item d-table" style="height: 170px;border-color: #ff8d8d;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo8.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-6" style="position: relative;top: -9px;">
+                                        <div class="single-brand-item d-table" style="border-color: #0ea6ff;">
+                                            <div class="d-table-cell text-center">
+                                                <img src="./images/brand-experience/logo9.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
 
                         </div>
+                    </div>
+                </section>
 
-                        <div class="row row-eq-height align-items-center">
-                            <a class="btn btn-readmore" href="#"><span>Read More</span><i class="icon ion-arrow-right-c"></i></a>
-                        </div>
-
-                        <div style="display: none;" class="row row-eq-height align-items-center">
-
-                            <div class="col-4">
-                                <img src="./images/quote-2.webp">
-                            </div>
-                            <div class="col-8">
-
+                <section class="brand_area section_gap_bottom">
+                    <div class="container">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-lg-7">
                                 <div class="content">
                                     <h1>What Makes us Different from Other Logo Design Companies</h1>
 
@@ -217,8 +280,27 @@
                                     <p> Since we have different package it does not mean that we compromise on quality. We provide you design service without any pixilation. The final design will be relevant and versatile.</p>
 
                                 </div>
-
                             </div>
+                            <div class="offset-lg-1 col-lg-4">
+                                <div class="client-info">
+                                    <div class="d-flex mb-50">
+                                        <span class="lage">10</span>
+                                        <span class="smll">Years Experience Working</span>
+                                    </div>
+                                    <div class="call-now d-flex">
+                                        <div>
+                                            <span class="fa fa-phone"></span>
+                                        </div>
+                                        <div class="ml-15">
+                                            <p>call us now</p>
+                                            <h3>(+1)-800-555-6789</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row row-eq-height align-items-center">
+                            <a class="btn btn-readmore" href="#"><span>See Our Packages</span><i class="icon ion-arrow-right-c"></i></a>
                         </div>
                     </div>
                 </section>
@@ -236,15 +318,6 @@
                                 <div class="btn-sec"><a href="#">Get Started</a></div>
                             </div>
                             <div class="col-7">
-                                <!--<div class="mac-wrapper-mod wow slideInRight">
-                                <div class="mac-mod">
-                                    <video autoplay="" loop="" muted="" poster="./images/hero-banner.webp">
-                                        <source src="./images/hero-video.mp4" type="video/mp4">
-                                        <source src="./images/hero-video.webm" type="video/webm">
-                                    </video>
-                                </div>
-
-                            </div>-->
                                 <img class="get-started-img" src="images/s-dev.webp">
                             </div>
                         </div>
@@ -429,8 +502,8 @@
                                 <li class="pricing-feature">Number of Designers 1</li>
                                 <li class="pricing-feature">100% Satisfaction Guarantee</li>
                                 <li class="pricing-feature">File Formats</li>
-                                 <li class="pricing-feature">24 Hours Email Support</li>
-                                
+                                <li class="pricing-feature">24 Hours Email Support</li>
+
                             </ul>
                             <button class='pricing-action'>Choose plan</button>
                             <div class="package-call">
@@ -466,7 +539,7 @@
                                 <li class="pricing-feature">Business Stationery Included</li>
                                 <li class="pricing-feature">100% Satisfaction Guarantee</li>
                                 <li class="pricing-feature">File Formats</li>
-                                 <li class="pricing-feature">24 Hours Email Support</li>
+                                <li class="pricing-feature">24 Hours Email Support</li>
                             </ul>
                             <button class='pricing-action'>Choose plan</button>
                             <div class="package-call">
@@ -502,7 +575,7 @@
                                 <li class="pricing-feature">Business Stationery Included</li>
                                 <li class="pricing-feature">100% Satisfaction Guarantee</li>
                                 <li class="pricing-feature">File Formats</li>
-                                 <li class="pricing-feature">24 Hours Email Support</li>
+                                <li class="pricing-feature">24 Hours Email Support</li>
                             </ul>
                             <button class='pricing-action'>Choose plan</button>
                             <div class="package-call">

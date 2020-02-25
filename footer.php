@@ -45,7 +45,7 @@
                             </li>
                             <li><a href="/guarantee/">Our Guarantees</a></li>-->
                         <li>
-                            <a href="/contact-us/">Contact</a>
+                            <a href="/contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
