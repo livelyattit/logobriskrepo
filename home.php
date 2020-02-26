@@ -47,7 +47,7 @@
                             <div class="col-6 col-md-6 col-sm-6 banner-intro">
                                 <div class="intro-contact">
                                     <h4>We Are</h4>
-                                    <h1>Identity Creators By GitHub</h1>
+                                    <h1>Identity Creators</h1>
                                     <h2>Logo Brisk is known by the following works</h2>
                                     <ul>
                                         <li>Logo Making</li>
