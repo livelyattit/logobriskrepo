@@ -38,22 +38,22 @@
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                            <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_0.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                            <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_1.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                        <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_2.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                        <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_3.mp4" type="video/mp4">
                                             </video>
                                         </div>
@@ -63,17 +63,17 @@
                                             </video>
                                         </div> -->
                                         <div class="swiper-slide">
-                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                        <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_5.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                        <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_6.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                        <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_7.mp4" type="video/mp4">
                                             </video>
                                         </div>
