@@ -29,6 +29,23 @@
 <script>
     jQuery(document).ready(function($) {
 
+
+        var swiper = new Swiper('.swiper-container', {
+            slidesPerView: 'auto',
+      spaceBetween: 50,
+      loop: true,
+      autoplay: {
+        delay: 4500,
+        disableOnInteraction: false,
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        dynamicBullets: true,
+        clickable: true,
+      },
+    });
+
+
         var height_from = $('.height-from').height();
         $('.height-to').css('min-height', height_from + 'px');
 

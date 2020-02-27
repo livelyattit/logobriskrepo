@@ -1,5 +1,5 @@
 <filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|svg|webp|js|css|swf)$">
-Header set Cache-Control "max-age=31536000, public"
+#Header set Cache-Control "max-age=31536000, public"
 </filesMatch>
 
 ## EXPIRES HEADER CACHING ##

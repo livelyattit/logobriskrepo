@@ -11,22 +11,78 @@
             <main>
 
                 <section style="background-image: url('./images/inner-page-header.webp')" id="page-header-contact" class="page-header">
-                    <h1 class="abs-head">Contact Us</h1>
+                    <h1 class="abs-head">Website</h1>
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <h1>Get In Touch With Us</h1>
+                                <h1>Our Attractive Websites Portfolio</h1>
                             </div>
                         </div>
                     </div>
                 </section>
-                
+
                 <section id="website-about" class="section">
                     <div class="container">
                         <div class="col-6">
-                            
+
                         </div>
                         <div class="col-6"></div>
+                    </div>
+                </section>
+
+                <section id="website-video-samples" class="section">
+                    <div class="container-fluid p-0">
+                        <div class="row m-0">
+                            <div class="col-12 p-0">
+                                <!-- Swiper -->
+                                <div class="swiper-container">
+                                    <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                            <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_0.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <div class="swiper-slide">
+                                            <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_1.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <div class="swiper-slide">
+                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_2.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <div class="swiper-slide">
+                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_3.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <!-- <div class="swiper-slide">
+                                        <video loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_4.mp4" type="video/mp4">
+                                            </video>
+                                        </div> -->
+                                        <div class="swiper-slide">
+                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_5.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <div class="swiper-slide">
+                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_6.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                        <div class="swiper-slide">
+                                        <video class="lazy" loop="true" autoplay muted width="540" height="423">
+                                                <source src="./images/webvideos/video_7.mp4" type="video/mp4">
+                                            </video>
+                                        </div>
+                                    </div>
+                                    <!-- Add Pagination -->
+                                    <div style="display: none;" class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </section>
 
