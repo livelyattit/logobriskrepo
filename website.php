@@ -23,10 +23,30 @@
 
                 <section id="website-about" class="section">
                     <div class="container">
-                        <div class="col-6">
+                        <div class="row">
+                            <div class="col-6">
+                                <h2>We Are Illustrators</h2>
+                                <p>
+                                    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+                                </p>
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+                                </p>
 
+                            </div>
+                            <div class="col-6">
+                                <div class="web-layouts-layered">
+                                    <div class="web-layouts-wrapper">
+                                        <img class="web-layered-img" width="555" src="./images/layered-web-0.jpg">
+                                        <img class="web-layered-img" width="555" src="./images/layered-web-1.jpg">
+                                        <img class="web-layered-img" width="555" src="./images/layered-web-3.png">
+                                        <img class="web-layered-img" width="555" src="./images/layered-web-5.png">
+                                        <img class="web-layered-img" width="555" src="./images/layered-web-4.png">
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-6"></div>
+
                     </div>
                 </section>
 
@@ -34,10 +54,15 @@
                     <div class="container-fluid p-0">
                         <div class="row m-0">
                             <div class="col-12 p-0">
+                                <div class="web-dribble-desc">
+                                    <h2>Some of the dribbled layouts</h2>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,</p>
+                                </div>
+                                
                                 <!-- Swiper -->
                                 <div class="swiper-container">
                                     <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
+                                        <div class="swiper-slide">
                                             <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_0.mp4" type="video/mp4">
                                             </video>
@@ -48,12 +73,12 @@
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_2.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_3.mp4" type="video/mp4">
                                             </video>
                                         </div>
@@ -63,17 +88,17 @@
                                             </video>
                                         </div> -->
                                         <div class="swiper-slide">
-                                        <video loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_5.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_6.mp4" type="video/mp4">
                                             </video>
                                         </div>
                                         <div class="swiper-slide">
-                                        <video loop="true" autoplay muted width="540" height="423">
+                                            <video loop="true" autoplay muted width="540" height="423">
                                                 <source src="./images/webvideos/video_7.mp4" type="video/mp4">
                                             </video>
                                         </div>

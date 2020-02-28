@@ -31,8 +31,8 @@
 
 
         var swiper = new Swiper('.swiper-container', {
-            slidesPerView: 'auto',
-      spaceBetween: 50,
+            slidesPerView: 3,
+      spaceBetween: 30,
       loop: true,
       autoplay: {
         delay: 4500,
