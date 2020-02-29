@@ -47,11 +47,11 @@
                     <div class="col-9">
                         <div class="push-right">
                             <nav class="header-menu">
-                                <li class="menu-item"><a href="#">LOGO DESIGN</a></li>
-                                <li class="menu-item"><a href="#">WEBSITE</a></li>
-                                <li class="menu-item"><a href="#">VIDEO</a></li>
-                                <li class="menu-item"><a href="#">PORTFOLIO</a></li>
-                                <li class="menu-item"><a href="#">PACKAGES</a></li>
+                                <li class="menu-item"><a href="/">LOGO DESIGN</a></li>
+                                <li class="menu-item"><a href="website.php">WEBSITE</a></li>
+                                <li class="menu-item"><a href="video.php">VIDEO</a></li>
+                                <li class="menu-item"><a href="portfolio.php">PORTFOLIO</a></li>
+                                <li class="menu-item"><a href="packages.php">PACKAGES</a></li>
                                 <li class="menu-item"><a href="contact.php">CONTACT</a></li>
                             </nav>
                         </div>
@@ -71,11 +71,11 @@
 
                     <!-- The Nav Menu -->
                     <nav class="nav">
-                        <a class="nav-item" href="">LOGO DESIGN</a>
-                        <a class="nav-item" href="">WEBSITE</a>
-                        <a class="nav-item" href="">VIDEO</a>
-                        <a class="nav-item" href="">PORTFOLIO</a>
-                        <a class="nav-item" href="">PACKAGES</a>
+                        <a class="nav-item" href="/">LOGO DESIGN</a>
+                        <a class="nav-item" href="website.php">WEBSITE</a>
+                        <a class="nav-item" href="video.php">VIDEO</a>
+                        <a class="nav-item" href="portfolio.php">PORTFOLIO</a>
+                        <a class="nav-item" href="packages.php">PACKAGES</a>
                         <a class="nav-item" href="contact.php">CONTACT</a>
                     </nav>
 
