@@ -4093,4 +4093,30 @@ section#website-about p {
     font-weight: normal;
 }
 
+section#website-portfolio .card {
+    overflow: hidden;
+    margin-bottom: 20px;
+    border: 1px solid #dfdbff;
+    border-radius: 20%;
+    box-shadow: 0 10px 30px #14164e42;
+    transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
+    position: relative;
+    z-index: 1;
+}
+section#website-portfolio .card img {
+    border: none;
+    border-radius: 0;
+}
+
+section#website-portfolio .card .card-body {
+    overflow: hidden;
+    height: inherit;
+}
+
+section#website-portfolio .card:hover {
+    border-radius: 2%;
+    transform: scale(1.3);
+    z-index: 2;
+}
+
 /* Website Page End */

@@ -30,6 +30,11 @@
     jQuery(document).ready(function($) {
 
 
+//         $('.card').css('height', function() {
+//   return Math.floor(Math.random() * 75) + 400;
+// });
+
+
         var swiper = new Swiper('.swiper-container', {
             slidesPerView: 3,
       spaceBetween: 30,
