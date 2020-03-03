@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="./css/style.css?ver=1" async>
     <link rel="stylesheet" href="./css/responsive.css?ver=1" async>
 
+   
     <script>
     // Set the options to make LazyLoad self-initialize
     window.lazyLoadOptions = {

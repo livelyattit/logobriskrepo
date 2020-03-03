@@ -29,10 +29,41 @@
 <script>
     jQuery(document).ready(function($) {
 
+     
+   $('input:checkbox').prop('checked', false);
+
+   var your_fav_function = function(args) {
+          console.log(this);
+        };
+            
+            // Pass some parameters
+            $('.video-item .js-lazyYT').lazyYT('AIzaSyCkV0sAmCOsDxjwEWtdzc8uAgGNIuyN-k4', {
+              //loading_text: 'It is loading!...',
+              display_title: true,
+              display_duration: true,
+              youtube_parameters: 'rel=1',
+              default_ratio: '16:9',
+              callback: your_fav_function
+            });
+       
+
+
 
 //         $('.card').css('height', function() {
 //   return Math.floor(Math.random() * 75) + 400;
 // });
+
+
+       // $("section#website-portfolio .card img").css('height', $("section#website-portfolio .card").height() + 'px');
+
+
+        var cards_total_height = $("section#website-portfolio .card-columns").height();
+
+        $("section#website-portfolio .card").each(function(n, element){
+
+            let height = $(this).height();
+            $(this).find('img').css('height', height+"px");
+        });
 
 
         var swiper = new Swiper('.swiper-container', {

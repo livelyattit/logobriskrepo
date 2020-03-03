@@ -580,6 +580,7 @@ ul.header-contact li:first-child:before {
     /* margin-right: 87px; */
     left: auto;
     padding-right: 20px;
+    z-index: 99;
 }
 
 .responsive-nav-logo a {
@@ -600,16 +601,18 @@ ul.header-contact li:first-child:before {
     display: flex;
     flex-direction: column;
     padding-left: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 0;
     top: auto;
     opacity: 0;
     transition: 0.6s ease;
     height: 0;
+    z-index: -1;
 }
 
 .row.responsive-nav.opened .responsive-nav-social-info {
     opacity: 1;
     height: auto;
+    margin-bottom: 30px;
 }
 
 ul.responsive-nav-contact {
@@ -1564,14 +1567,26 @@ body {
 
 .pricing-palden .pricing-deco.pricing-1 {
     background: #53e194;
+     background-image: url('../images/video-type-3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .pricing-palden .pricing-deco.pricing-2 {
     background: #f7351d;
+     background-image: url('../images/video-type-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .pricing-palden .pricing-deco.pricing-3 {
     background: #05bcc5;
+     background-image: url('../images/video-type-5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 section.pricing-section .simplebar-content {
@@ -1623,7 +1638,7 @@ section.pricing-section .simplebar-content {
     color: #84697c;
     background: #fff;
     box-shadow: 0 0 10px rgba(46, 59, 125, 0.23);
-    border-radius: 10px 10px 10px 10px;
+    /* border-radius: 10px 10px 10px 10px; */
     margin: 1em;
     border: 1px solid #ccc;
 }
@@ -1641,7 +1656,7 @@ section.pricing-section .simplebar-content {
 }
 
 .pricing-palden .pricing-deco {
-    border-radius: 10px 10px 0 0;
+    /* border-radius: 10px 10px 0 0; */
     background: rgba(76, 70, 101, 0.99);
     padding: 4em 0 9em;
     position: relative;
@@ -1661,6 +1676,7 @@ section.pricing-section .simplebar-content {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #fff;
+    font-family: 'Poppins', sans-serif;
 }
 
 .pricing-palden .deco-layer {
@@ -1684,11 +1700,12 @@ section.pricing-section .simplebar-content {
 
 .pricing-palden .pricing-price {
     font-size: 5em;
-    font-weight: bold;
+    font-weight: 900;
     padding: 0;
     color: #fff;
     margin: 0 0 0.25em 0;
     line-height: 0.75;
+    font-family: 'Roboto', sans-serif;
 }
 
 .pricing-palden .pricing-currency {
@@ -1724,7 +1741,13 @@ section.pricing-section .simplebar-content {
     padding: 8px 0;
     /* border-left: 2px solid red; */
     border-bottom: 1px solid #f1f1f1 !important;
-    font-weight: 500;
+    font-weight: 400;
+    color: #000;
+    font-family: 'Fira Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-family: 'Dosis', sans-serif; */
+    /* font-family: 'Lobster Two', cursive; */
+    /* font-family: 'Poppins', sans-serif; */
 }
 
 .pricing-palden .pricing-action {
@@ -1750,15 +1773,21 @@ section.pricing-section .simplebar-content {
 
 
 .pricing-item.pricing-item-1 button {
-    background: #53e194;
+    background: #0dddce;
+    background: -webkit-linear-gradient(to right, #6dd0f1, #0dddce); 
+background: linear-gradient(to right, #6dd0f1, #0dddce);
 }
 
 .pricing-item.pricing-item-2 button {
-    background: #f7351d;
+    background: #FF512F;
+background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
+background: linear-gradient(to right, #DD2476, #FF512F);
 }
 
 .pricing-item.pricing-item-3 button {
-    background: #05bcc5;
+    background: #0052D4;
+background: -webkit-linear-gradient(to right, #291fb1, #0052D4);
+background: linear-gradient(to right, #291fb1, #0052D4);
 }
 
 .pricing-item.pricing-item-1 li {
@@ -1788,7 +1817,7 @@ section.pricing-section .simplebar-content {
 
 .pricing-item-1 ul.pricing-feature-list .simplebar-scrollbar:before {
     opacity: 1;
-    background: #53e194;
+    background: #0dddce;
 }
 
 .pricing-item-2 ul.pricing-feature-list .simplebar-scrollbar:before {
@@ -1798,37 +1827,57 @@ section.pricing-section .simplebar-content {
 
 .pricing-item-3 ul.pricing-feature-list .simplebar-scrollbar:before {
     opacity: 1;
-    background: #05bcc5;
+    background: #362aa6;
 }
 
 
 .pricing-palden .pricing-deco.pricing-4 {
-    background: #6e00ff;
+    background-image: url('../images/video-type-4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .pricing-palden .pricing-deco.pricing-5 {
-    background: #0095ff;
+    background: #ed26a7;
+    background-image: url('../images/video-type-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .pricing-palden .pricing-deco.pricing-6 {
     background: #900078;
+    background-image: url('../images/video-type-6.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .pricing-item.pricing-item-4 button {
-    background: #6e00ff;
+     background: #4527a7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8e128b, #4527a7); 
+background: linear-gradient(to right, #8e128b, #4527a7);
+
 }
 
 .pricing-item.pricing-item-5 button {
-    background: #0095ff;
+    background: #30bfdd;
+    background: #2980b9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #c14fb3, #33b4f5); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #c14fb3, #33b4f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .pricing-item.pricing-item-6 button {
-    background: #900078;
+    background: #a900aa;
+    background: #a900aa;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #a900aa, #AA076B); 
+background: linear-gradient(to right, #a900aa, #AA076B);
 }
 
 .pricing-item-4 ul.pricing-feature-list .simplebar-scrollbar:before {
     opacity: 1;
-    background: #6e00ff;
+    background: #5623a1;
 }
 
 .pricing-item-5 ul.pricing-feature-list .simplebar-scrollbar:before {
@@ -1842,27 +1891,27 @@ section.pricing-section .simplebar-content {
 }
 
 .pricing-item.pricing-item-1 {
-    border-color: #53e194;
+    border-color: #d3ffe7;
 }
 
 .pricing-item.pricing-item-2 {
-    border-color: #f7351d;
+    border-color: #ffd7d2;
 }
 
 .pricing-item.pricing-item-3 {
-    border-color: #05bcc5;
+    border-color: #e5e4ff;
 }
 
 .pricing-item.pricing-item-4 {
-    border-color: #6e00ff;
+    border-color: #d9ccff;
 }
 
 .pricing-item.pricing-item-5 {
-    border-color: #0095ff;
+    border-color: #cbeaff;
 }
 
 .pricing-item.pricing-item-6 {
-    border-color: #900078;
+    border-color: #ffd2f7;
 }
 
 .simplebar-track.simplebar-vertical {
@@ -4097,7 +4146,7 @@ section#website-portfolio .card {
     overflow: hidden;
     margin-bottom: 20px;
     border: 1px solid #dfdbff;
-    border-radius: 20%;
+    border-radius: 130px;
     box-shadow: 0 10px 30px #14164e42;
     transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     position: relative;
@@ -4106,6 +4155,15 @@ section#website-portfolio .card {
 section#website-portfolio .card img {
     border: none;
     border-radius: 0;
+    object-position: 50% 0;
+    width: 100%;
+    transition: object-position 5s cubic-bezier(0.4, 0, 0.2, 1);
+    object-fit: cover;
+}
+
+
+section#website-portfolio .card:hover img {
+    object-position: 50% 100%;
 }
 
 section#website-portfolio .card .card-body {
@@ -4120,3 +4178,242 @@ section#website-portfolio .card:hover {
 }
 
 /* Website Page End */
+
+
+/* Video Page */
+
+section.video-types {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+section.video-types h2 {
+    text-align: center;
+}
+
+section.video-types .video-type {
+    height: 300px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 1.25rem;
+    background: #fff;
+    position: relative;
+}
+
+section.video-types .video-type h3 {
+    font-size: 40px;
+    font-weight: 900;
+    color: #ffffffa1;
+    text-align: left;
+    margin-bottom: 40px;
+    background: #2980b9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+section.video-types .container {
+    /* max-width: 1000px; */
+}
+
+section.video-types .video-type h3 span {
+    display: block;
+    font-weight: 600;
+}
+
+section.video-types .video-type-wrap {
+    padding: 3px;
+    margin-bottom: 28px;
+    background: #2980b9;
+    background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);
+    border-radius: 10px;
+    transition: 0.3s ease;
+}
+
+
+section.video-types .video-type-whiteboard {
+   background: #0052D4;
+background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); 
+background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+
+}
+
+
+section.video-types .video-type-whiteboard h3 {
+  background: #0052D4;
+background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+
+    -webkit-background-clip: text;
+}
+
+
+section.video-types .video-type-motion {
+  background: #FF512F; 
+background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
+background: linear-gradient(to right, #DD2476, #FF512F);
+
+
+}
+
+section.video-types .video-type-motion h3 {
+  background: #FF512F;
+background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
+background: linear-gradient(to right, #DD2476, #FF512F);
+
+
+    -webkit-background-clip: text;
+}
+
+section.video-types .video-type-info {
+  background: #348F50;
+background: -webkit-linear-gradient(to right, #56B4D3, #348F50);
+background: linear-gradient(to right, #56B4D3, #348F50);
+
+}
+
+section.video-types .video-type-info h3 {
+  background: #348F50;
+background: -webkit-linear-gradient(to right, #56B4D3, #348F50); 
+background: linear-gradient(to right, #56B4D3, #348F50);
+
+    -webkit-background-clip: text;
+}
+
+
+section.video-types .video-type-cutout {
+    background: #e65c00;
+background: -webkit-linear-gradient(to right, #F9D423, #e65c00);
+background: linear-gradient(to right, #F9D423, #e65c00);
+
+}
+
+section.video-types .video-type-cutout h3 {
+    background: #e65c00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F9D423, #e65c00);
+background: linear-gradient(to right, #F9D423, #e65c00);
+
+    -webkit-background-clip: text;
+}
+
+
+section.video-types .video-type-kinetic {
+   background: #AA076B; 
+background: -webkit-linear-gradient(to right, #61045F, #AA076B);
+background: linear-gradient(to right, #61045F, #AA076B);
+
+}
+
+section.video-types .video-type-kinetic h3 {
+   background: #AA076B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #61045F, #AA076B); 
+background: linear-gradient(to right, #61045F, #AA076B);
+
+    -webkit-background-clip: text;
+}
+
+section.video-types .video-type-wrap:hover {
+    transform: scale(1.1);
+}
+
+.video-type-icon {
+    position: absolute;
+    right: 70px;
+    top: 15%;
+}
+
+.video-type-icon i {
+    font-size: 90px;
+}
+
+
+section.video-types .video-type-wrap.video-type-2d .video-type-icon i {
+    background: #2980b9; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types .video-type-wrap.video-type-whiteboard .video-type-icon i {
+      background: #0052D4;
+background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types .video-type-wrap.video-type-motion .video-type-icon i {
+      background: #FF512F;
+background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
+background: linear-gradient(to right, #DD2476, #FF512F);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types .video-type-wrap.video-type-info .video-type-icon i {
+    background: #348F50;
+background: -webkit-linear-gradient(to right, #56B4D3, #348F50); 
+background: linear-gradient(to right, #56B4D3, #348F50);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types .video-type-wrap.video-type-cutout .video-type-icon i {
+   background: #e65c00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F9D423, #e65c00);
+background: linear-gradient(to right, #F9D423, #e65c00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types .video-type-wrap.video-type-kinetic .video-type-icon i {
+     background: #AA076B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #61045F, #AA076B); 
+background: linear-gradient(to right, #61045F, #AA076B);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+section.video-types h2 {
+    color: #f7351d;
+    font-size: 46px;
+    line-height: 48px;
+    margin-bottom: 33px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ytp-spinner {
+    display: none;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 38%;
+    left: 42%;
+}
+
+.video-item:hover .ytp-large-play-button {
+    opacity: 1;
+}
+
+path.ytp-large-play-button-bg {
+    fill: #f00;
+}
+
+/* Video Page End */

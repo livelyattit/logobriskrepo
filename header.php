@@ -63,7 +63,6 @@
 
                     <input id="toggle" type="checkbox">
 
-
                     <label class="toggle-container" for="toggle">
 
                         <span class="button button-toggle"></span>
