@@ -142,7 +142,7 @@
                                             <div class="portfolio logo" data-cat="logo">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                    <div class="js-lazyYT" data-youtube-id="zZ7LORizfZg"></div>
+                                                    <div class="js-lazyYT" data-youtube-id="a3iDSRPxDdc"></div>
                                                     </div>
 
                                                 </div>
@@ -160,7 +160,7 @@
                                             <div class="portfolio web" data-cat="web">
                                             <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="fMtEBaN2jUc" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -178,7 +178,7 @@
                                             <div class="portfolio app" data-cat="app">
                                             <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="kcccR2ETg6U" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -194,17 +194,11 @@
                                             </div>
 
                                             <div class="portfolio card" data-cat="card">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/5.jpg">
-                                                        <img src="images/portfolios/card/5.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Techlion</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                            <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="JxJolVXQfK4" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
