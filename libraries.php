@@ -37,7 +37,7 @@
         };
             
             // Pass some parameters
-            $('.video-item .js-lazyYT').lazyYT('AIzaSyCkV0sAmCOsDxjwEWtdzc8uAgGNIuyN-k4', {
+            $('.video-item .js-lazyYT').lazyYT('AIzaSyDe1wGXH6KmAvLR70MqLDRLVyI7AbcLrrE', {
               //loading_text: 'It is loading!...',
               display_title: true,
               display_duration: true,
