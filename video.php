@@ -27,11 +27,13 @@
                             <div class="col-6">
                                 <h2>We Are Animators</h2>
                                 <p>
-                                    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+                                    Whiz Video focuses on a team of individualists. Each team member has a say in conceiving innovative ideas for the videos. We have our expertise in creating best quality videos and timely completion of the projects.</p>  
+Our team focuses on being wild and innovative, imaginative and limitless when it comes to cracking down a concept for a video. It becomes our prime agenda to create the best version of what is required by our clients. </p>
+<p>We let the nature into our work spaces to create green and fresh working environment, uplifting the spirits of our team. High-functioning and efficient working facility enables our team members to work in a constantly active environment. Our server facility with a high security end provides the team with the ease of uploading the videos in HD quality. High speed internet facility amplifies the working speed and fulfil our professional needs. Our spacious cafeteria becomes the hub that gathers our team members for all lunches. 
+<p>Along with all these facilities, our work space becomes the most exciting place to think, work and thrive. </p>
+
                                 </p>
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                                </p>
+                              
 
                             </div>
                             <div class="col-6">
@@ -130,12 +132,13 @@
                                 <div class="col-12">
                                     <div class="portfolio-comp">
                                         <ul id="filters" class="clearfix">
-                                            <li><span class="filter active" data-filter=".app, .card, .icon, .logo, .web">All</span></li>
-                                            <li><span class="filter" data-filter=".app">App</span></li>
-                                            <li><span class="filter" data-filter=".card">Card</span></li>
-                                            <li><span class="filter" data-filter=".icon">Icon</span></li>
-                                            <li><span class="filter" data-filter=".logo">Logo</span></li>
-                                            <li><span class="filter" data-filter=".web">Web</span></li>
+                                            <li><span class="filter active" data-filter=".2D Cartoon Animation, .Whiteboard Animation, .Motion Graphics, .Info graphics, .Kinetic Typography, .Animated Logo">All</span></li>
+                                            <li><span class="filter" data-filter=".app">2D Cartoon</span></li>
+                                            <li><span class="filter" data-filter=".card">Whiteboard VIdeo</span></li>
+                                            <li><span class="filter" data-filter=".icon">Motion Graphics</span></li>
+                                            <li><span class="filter" data-filter=".logo">Info graphics</span></li>
+                                            <li><span class="filter" data-filter=".web">Kinetic Typography</span></li>
+											<li><span class="filter" data-filter=".animated">Animated Logo</span></li>
                                         </ul>
                                         <div id="portfoliolist">
 
@@ -202,20 +205,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/1.jpg">
-                                                        <img src="images/portfolios/logo/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">KittyPic</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                          
 
                                             <div class="portfolio app" data-cat="app">
                                                 <div class="portfolio-wrapper">
@@ -247,35 +237,9 @@
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/6.jpg">
-                                                        <img src="images/portfolios/logo/6.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Mobi Sock</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                 
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/7.jpg">
-                                                        <img src="images/portfolios/logo/7.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Village Community Church</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                               
 
                                             <div class="portfolio icon" data-cat="icon">
                                                 <div class="portfolio-wrapper">
@@ -382,35 +346,9 @@
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/3.jpg">
-                                                        <img src="images/portfolios/logo/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Native Designers</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                          
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/4.jpg">
-                                                        <img src="images/portfolios/logo/4.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Bookworm</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                     
 
                                             <div class="portfolio icon" data-cat="icon">
                                                 <div class="portfolio-wrapper">
@@ -442,20 +380,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
-                                                <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/2.jpg">
-                                                        <img src="images/portfolios/logo/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Speciallisterne</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
+                       
 
 
                                         </div>
@@ -484,17 +409,18 @@
                                 <div class='pricing-price'><span class='pricing-currency'>$</span>99
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Startup Video Package</h3>
                             </div>
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
+                                <li class='pricing-feature'>30 Second Video</li>
+                                <li class='pricing-feature'>Professional Script</li>
+                                <li class='pricing-feature'>Storyboard</li>
+                                <li class='pricing-feature'>Animation</li>
+                                <li class='pricing-feature'>Voice - Over & Sound Effects</li>
+                                <li class='pricing-feature'>4 weeks Delivery</li>
+								<li class='pricing-feature'>Unlimited Revisions</li>
                             </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
@@ -518,17 +444,18 @@
                                 <div class='pricing-price'><span class='pricing-currency'>$</span>99
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Classic Video Package</h3>
                             </div>
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
+                                <li class='pricing-feature'>60 Second Video</li>
+                                <li class='pricing-feature'>Professional Script</li>
+                                <li class='pricing-feature'>Sample Theme</li>
+                                <li class='pricing-feature'>Storyboard</li>
+                                <li class='pricing-feature'>Animation</li>
+                                <li class='pricing-feature'>Voice - Over & Sound Effects</li>
+								 <li class='pricing-feature'>4 weeks Delivery</li>
                             </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
@@ -552,17 +479,18 @@
                                 <div class='pricing-price'><span class='pricing-currency'>$</span>99
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Premium Video Package</h3>
                             </div>
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
+                                     <li class='pricing-feature'>120 Second Video</li>
+                                <li class='pricing-feature'>Professional Script</li>
+                                <li class='pricing-feature'>Sample Theme</li>
+                                <li class='pricing-feature'>Storyboard</li>
+                                <li class='pricing-feature'>Animation</li>
+                                <li class='pricing-feature'>Voice - Over & Sound Effects</li>
+								 <li class='pricing-feature'>5 weeks Delivery</li>
                             </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
