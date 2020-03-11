@@ -159,13 +159,23 @@
 
                 // MixItUp plugin
                 // http://mixitup.io
-                $('#portfoliolist').mixItUp({
+                $('.portfoliolist').mixItUp({
                     selectors: {
                         target: '.portfolio',
                         filter: '.filter'
                     },
                     load: {
                         filter: '.app' // show app tab on first load
+                    }
+                });
+
+                $('.videoportfoliolist').mixItUp({
+                    selectors: {
+                        target: '.portfolio',
+                        filter: '.filter'
+                    },
+                    load: {
+                        filter: '.2d-cartoon' // show app tab on first load
                     }
                 });
 

@@ -53,7 +53,7 @@
                                             <li><span class="filter" data-filter=".logo">Logo</span></li>
                                             <li><span class="filter" data-filter=".web">Web</span></li>
                                         </ul>
-                                        <div id="portfoliolist">
+                                        <div id="portfoliolist" class="portfoliolist">
 
                                             <div class="portfolio logo" data-cat="logo">
                                                 <div class="portfolio-wrapper">
