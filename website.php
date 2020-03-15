@@ -23,7 +23,7 @@
 
                 <section id="website-about" class="section">
                     <div class="container">
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-6">
                                 <h2>Eye-Catching and Responsive Website Development Service by LogoBrisk</h2>
                                 <p>
@@ -32,7 +32,7 @@
                                 <p>
                                     Start from website wireframe and gradually move towards website layout in this area web designer helps you, then it involves science. The right expertise is required with the right gears for the right target audience.
                                 </p>
-<p>
+                                <!-- <p>
 LogoBrisk has specialists web developers and web designers’ team for both the art and science of web design and development. Thorough research is carried out by our team to meet the customer’s goals then our website developers improve the website following through industry principles and using suitable tools & plugins for different projects.
 </p>
 <p>
@@ -40,7 +40,7 @@ Many of our customers faced a poor and amateur round first time and that’s why
 </p>
 <p>
 Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
-</p>
+</p> -->
                             </div>
                             <div class="col-6">
                                 <div class="web-layouts-layered">
@@ -64,8 +64,8 @@ Acquire a classic and flawless custom website design services uplift your online
                             <div class="col-12 p-0">
                                 <div class="web-dribble-desc">
                                     <div class="content">
-                                        <h2>Some of the dribbled layouts</h2>
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,</p>
+                                        <h2>Specialists Web Developers & Web Designers’</h2>
+                                        <p>LogoBrisk has specialists web developers and web designers’ team for both the art and science of web design and development. Thorough research is carried out by our team to meet the customer’s goals then our website developers improve the website following through industry principles and using suitable tools & plugins for different projects.</p>
                                     </div>
 
                                 </div>
@@ -122,6 +122,21 @@ Acquire a classic and flawless custom website design services uplift your online
                     </div>
                 </section>
 
+                <section id="website-more-desc" class="section">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+                                <p>
+                                    Many of our customers faced a poor and amateur round first time and that’s why they approach us for redevelop their website. LogoBrisk appreciate resources and time constraints of small business and hence, assure you that being part of our project team you will create a winner for your business.
+                                </p>
+                                <p>
+                                    Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
                 <section id="website-portfolio" class="section">
 
                     <div class="container">
@@ -131,218 +146,218 @@ Acquire a classic and flawless custom website design services uplift your online
 
                                     <div class="card" style="height: 406px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio1.jpg">
-                                            <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio1.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio1.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio1.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 399px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio2.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio2.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio2.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio2.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 452px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio3.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio3.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio3.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio3.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 425px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio4.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio4.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio4.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio4.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 460px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio5.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio5.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio5.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio5.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 418px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio6.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio6.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                           
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio6.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio6.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 442px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio7.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio7.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio7.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio7.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 449px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio8.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio8.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio8.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio8.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 424px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio9.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio9.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio9.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio9.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 404px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio10.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio10.jpg" alt="Fastest Transfer Ever">
-                                        </a>
-                                            
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio10.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio10.jpg" alt="Fastest Transfer Ever">
+                                            </a>
+
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 405px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio11.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio11.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio11.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio11.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 446px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio12.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio12.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio12.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio12.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 421px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio13.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio13.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio13.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio13.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 416px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio14.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio14.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio14.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio14.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 408px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio15.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio15.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio15.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio15.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 441px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio16.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio16.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio16.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio16.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 416px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio17.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio17.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio17.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio17.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 471px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio18.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio18.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio18.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio18.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 473px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio19.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio19.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio19.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio19.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 546px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio20.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio20.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio20.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio20.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 518px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio21.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio21.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio21.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio21.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 471px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio22.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio22.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio22.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio22.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 463px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio23.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio23.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio23.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio23.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 473px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio24.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio24.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio24.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio24.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 448px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio25.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio25.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio25.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio25.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
                                     <div class="card" style="height: 512px;">
                                         <div class="card-body p-0">
-                                        <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio26.jpg">
-                                        <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio26.jpg" alt="Fastest Transfer Ever">
-                                        </a>
+                                            <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio26.jpg">
+                                                <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio26.jpg" alt="Fastest Transfer Ever">
+                                            </a>
                                         </div>
                                     </div>
 
