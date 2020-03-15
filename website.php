@@ -144,7 +144,7 @@ Acquire a classic and flawless custom website design services uplift your online
                             <div class="col-12">
                                 <div class="card-columns">
 
-                                    <div class="card" style="height: 406px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio1.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio1.jpg" alt="Fastest Transfer Ever">
@@ -153,7 +153,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 399px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio2.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio2.jpg" alt="Fastest Transfer Ever">
@@ -161,7 +161,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 452px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio3.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio3.jpg" alt="Fastest Transfer Ever">
@@ -170,7 +170,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 425px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio4.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio4.jpg" alt="Fastest Transfer Ever">
@@ -179,7 +179,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 460px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio5.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio5.jpg" alt="Fastest Transfer Ever">
@@ -188,7 +188,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 418px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio6.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio6.jpg" alt="Fastest Transfer Ever">
@@ -197,7 +197,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 442px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio7.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio7.jpg" alt="Fastest Transfer Ever">
@@ -206,7 +206,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 449px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio8.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio8.jpg" alt="Fastest Transfer Ever">
@@ -215,7 +215,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 424px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio9.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio9.jpg" alt="Fastest Transfer Ever">
@@ -224,7 +224,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 404px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio10.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio10.jpg" alt="Fastest Transfer Ever">
@@ -233,7 +233,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 405px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio11.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio11.jpg" alt="Fastest Transfer Ever">
@@ -241,7 +241,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 446px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio12.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio12.jpg" alt="Fastest Transfer Ever">
@@ -249,7 +249,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 421px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio13.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio13.jpg" alt="Fastest Transfer Ever">
@@ -257,7 +257,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 416px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio14.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio14.jpg" alt="Fastest Transfer Ever">
@@ -265,7 +265,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 408px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio15.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio15.jpg" alt="Fastest Transfer Ever">
@@ -273,7 +273,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 441px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio16.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio16.jpg" alt="Fastest Transfer Ever">
@@ -281,7 +281,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 416px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio17.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio17.jpg" alt="Fastest Transfer Ever">
@@ -289,7 +289,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 471px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio18.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio18.jpg" alt="Fastest Transfer Ever">
@@ -297,7 +297,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 473px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio19.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio19.jpg" alt="Fastest Transfer Ever">
@@ -305,7 +305,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 546px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio20.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio20.jpg" alt="Fastest Transfer Ever">
@@ -313,7 +313,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 518px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio21.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio21.jpg" alt="Fastest Transfer Ever">
@@ -321,7 +321,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 471px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio22.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio22.jpg" alt="Fastest Transfer Ever">
@@ -329,7 +329,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 463px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio23.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio23.jpg" alt="Fastest Transfer Ever">
@@ -337,7 +337,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 473px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio24.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio24.jpg" alt="Fastest Transfer Ever">
@@ -345,7 +345,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 448px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio25.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio25.jpg" alt="Fastest Transfer Ever">
@@ -353,7 +353,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                         </div>
                                     </div>
 
-                                    <div class="card" style="height: 512px;">
+                                    <div class="card">
                                         <div class="card-body p-0">
                                             <a data-fancybox="web-gallery" href="./images/portfolios/web/web-portfolio26.jpg">
                                                 <img class="card-img-top p-0" src="./images/portfolios/web/web-portfolio26.jpg" alt="Fastest Transfer Ever">
@@ -363,9 +363,9 @@ Acquire a classic and flawless custom website design services uplift your online
 
 
                                 </div>
-                                <!-- <div class="load-more-sec text-center">
+                                <div class="load-more-sec text-center">
                                     <button type="button" id="loadMoreWeb" class="btn btn-outline-danger">Load More</button>
-                                </div> -->
+                                </div>
                             </div>
                         </div>
                     </div>

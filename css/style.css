@@ -4157,6 +4157,12 @@ section#website-portfolio .card {
     transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     position: relative;
     z-index: 1;
+    width: 31.33%;
+    margin: 0 1% 30px;
+    transition: opacity 1s ease-out;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
 }
 section#website-portfolio .card img {
     border: none;
@@ -4204,9 +4210,19 @@ section#website-more-desc p {
 
 section#website-portfolio {/* padding-top: 69px; */overflow: visible;}
 
-.card-columns {
-    padding-top: 70px;
+section#website-portfolio .card-columns {
     overflow: visible;
+    -webkit-column-count: auto;
+    -moz-column-count: auto;
+    column-count: auto;
+    -webkit-column-gap: 0;
+    -moz-column-gap: 0;
+    column-gap: 0;
+    orphans: unset;
+    widows: unset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 section#website-portfolio .container {
@@ -4219,6 +4235,22 @@ section#website-portfolio .row {
 
 section#website-portfolio .col-12 {
     overflow: visible;
+}
+
+section#website-portfolio .card-columns {
+    /* max-height: 300px; */
+    /* overflow-y: hidden; */
+    overflow: visible;
+}
+
+section#website-portfolio .row {
+    padding-top: 70px;
+    padding-bottom: 60px;
+    /* overflow: visible; */
+}
+
+section#website-portfolio .container {
+    padding-bottom: 60px;
 }
 
 /* Website Page End */
