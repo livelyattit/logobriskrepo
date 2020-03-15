@@ -4152,17 +4152,18 @@ section#website-portfolio .card {
     overflow: hidden;
     margin-bottom: 20px;
     border: 1px solid #dfdbff;
-    border-radius: 130px;
-    /* box-shadow: 0 10px 30px #14164e42; */
+    border-radius: 40px;
+    box-shadow: 0 10px 30px #14164e45;
     transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     position: relative;
     z-index: 1;
     width: 31.33%;
-    margin: 0 1% 30px;
+    margin: 0 1% 0;
     transition: opacity 1s ease-out;
     opacity: 0;
     height: 0;
     overflow: hidden;
+    transition: 0.3s ease;
 }
 section#website-portfolio .card img {
     border: none;

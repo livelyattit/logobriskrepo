@@ -57,13 +57,13 @@
        // $("section#website-portfolio .card img").css('height', $("section#website-portfolio .card").height() + 'px');
 
 
-        var cards_total_height = $("section#website-portfolio .card-columns").height();
+        // var cards_total_height = $("section#website-portfolio .card-columns").height();
 
-        $("section#website-portfolio .card").each(function(n, element){
+        // $("section#website-portfolio .card").each(function(n, element){
 
-            let height = $(this).height();
-            $(this).find('img').css('height', height+"px");
-        });
+        //     let height = $(this).height();
+        //     $(this).find('img').css('height', height+"px");
+        // });
 
 
         var swiper = new Swiper('.swiper-container', {
@@ -151,10 +151,12 @@
 
     var size_li = $("#website-portfolio .card").length;
     var x=3;
-    $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"400px"});
+    $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"400px", "margin-bottom": "30px"});
+    $('#website-portfolio .card:lt('+x+') img').css({"height":"400px"});
     $('#loadMoreWeb').click(function () {
         x= (x+3 <= size_li) ? x+3 : size_li;
-        $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"400px"});
+        $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"400px", "margin-bottom": "30px"});
+        $('#website-portfolio .card:lt('+x+') img').css({"height":"400px"});
     });
     $('#showLess').click(function () {
         x=(x-5<0) ? 3 : x-5;
