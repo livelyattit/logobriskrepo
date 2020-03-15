@@ -138,7 +138,7 @@
 
                     <div class="port-gall">
                         <div class="container">
-                            <h3> Our Portfolio </h3>
+                            <h3 class="pric"> Our Portfolio </h3>
                             <div class="row">
                                 <div class="col-12">
                                     <div class="portfolio-comp">
@@ -153,7 +153,52 @@
                                         </ul>
                                         <div id="portfoliolist" class="videoportfoliolist">
 
+
+                                             <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="HHZhquxEk18"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
                                             <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="7kxcpNlGphM"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="FkJHG6vDVv8"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                                       <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="bqR1CjdbkoY"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="3oVVTgAMo5U"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                             <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
                                                         <div class="js-lazyYT" data-youtube-id="a3iDSRPxDdc"></div>
@@ -162,10 +207,131 @@
                                                 </div>
                                             </div>
 
+
+
+                                                 <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="h1Wl2rwTIf0"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+
+
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="XGW-AK3vJpM"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+                                               <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="671ITyS7ANk"></div>
+                                                    </div>
+
+                                                </div>
+
+                                                  </div>
+
+                                                  <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="JxJolVXQfK4"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+                                                <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="O4z1Nk-s29o"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+                                                <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="hU-Iq_imwdQ"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+                                               <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="QNrO27GgxWM"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="fMtEBaN2jUc"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+
+
+
+
+
+                                 
                                             <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="kcccR2ETg6U" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="M5hE9OrQdaE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="ToeVKb7iqiA" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -174,7 +340,66 @@
                                             <div class="portfolio motion-graphics" data-cat="motion-graphics">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="feKXIvifuDE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+
+
+                                            <div class="portfolio motion-graphics" data-cat="motion-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="4lw5pz6JooM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                             <div class="portfolio motion-graphics" data-cat="motion-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="dau4AAfGWOA" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                             <div class="portfolio motion-graphics" data-cat="motion-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="PpF4oBls7FQ" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="To-lGTy9IvM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="8dr5HQ0Xznc" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            
+                                            
+                                            <div class="portfolio info-graphics" data-cat="info-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="Ao6Y_X4lmeE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -183,7 +408,37 @@
                                             <div class="portfolio info-graphics" data-cat="info-graphics">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="Y2yGPNRlAD0" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="LDNLaKNF-ZI" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+
+
+                                            <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="wop03DbGIAI" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                              <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="2y7TkGV-RFU" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -192,7 +447,7 @@
                                             <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                        <div class="js-lazyYT" data-youtube-id="VxdPDkj57dM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
                                                     </div>
 
                                                 </div>
@@ -201,7 +456,136 @@
                                             <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
                                                     <div class="video-item">
-                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                     <img width="100%" height="260px" src="./images/gif/02-Record-Mania-Logo-by-Bedow-on-BPO.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                             <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/06-rocket-graphic-logo-animation.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/34de57_578409b11c984fff907c6a1dadf47523_mv2.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                 <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/66f51d64c6dddf26da8b50ffb89439cc.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                            <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/f92eb769853253.5bbd9bff1b879.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                 <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/Flexible-type-logo1.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/flying-pig.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/giphy.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/kinetic-typography-10.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/logo-animation17-480.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/logo-design-trends-2020-creative-letters-example-3.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/original.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                             <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/panic.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/rogie-subtle-logo-animation.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/tenor.gif">
                                                     </div>
 
                                                 </div>
@@ -221,7 +605,7 @@
 
                 <section class="pricing-section">
                     <div class='pricing pricing-palden'>
-
+                            <h3 class="pric">Our Pricing</h3>
                         <div class='pricing-item pricing-item-4'>
                             <div class='pricing-deco pricing-4'>
                                 <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>

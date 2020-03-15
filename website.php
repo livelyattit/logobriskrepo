@@ -25,14 +25,22 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-6">
-                                <h2>We Are Illustrators</h2>
+                                <h2>Eye-Catching and Responsive Website Development Service by LogoBrisk</h2>
                                 <p>
-                                    Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+                                    Developing custom website is not a child. It is the combination of art, science & technology. Companies who are offering website design services they must get both the conceptual studies in accurate proportions for a robust online presence. Attractive website design results in an entice the visitors to review web design, along with the competence to deliver the promised quality.
                                 </p>
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+                                    Start from website wireframe and gradually move towards website layout in this area web designer helps you, then it involves science. The right expertise is required with the right gears for the right target audience.
                                 </p>
-
+<p>
+LogoBrisk has specialists web developers and web designers’ team for both the art and science of web design and development. Thorough research is carried out by our team to meet the customer’s goals then our website developers improve the website following through industry principles and using suitable tools & plugins for different projects.
+</p>
+<p>
+Many of our customers faced a poor and amateur round first time and that’s why they approach us for redevelop their website. LogoBrisk appreciate resources and time constraints of small business and hence, assure you that being part of our project team you will create a winner for your business.
+</p>
+<p>
+Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
+</p>
                             </div>
                             <div class="col-6">
                                 <div class="web-layouts-layered">
@@ -340,6 +348,9 @@
 
 
                                 </div>
+                                <!-- <div class="load-more-sec text-center">
+                                    <button type="button" id="loadMoreWeb" class="btn btn-outline-danger">Load More</button>
+                                </div> -->
                             </div>
                         </div>
                     </div>

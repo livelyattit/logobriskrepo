@@ -149,6 +149,20 @@
 
 
 
+    // var size_li = $("#website-portfolio .card").length;
+    // var x=3;
+    // $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"auto"});
+    // $('#loadMoreWeb').click(function () {
+    //     x= (x+3 <= size_li) ? x+3 : size_li;
+    //     $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"auto"});
+    // });
+    // $('#showLess').click(function () {
+    //     x=(x-5<0) ? 3 : x-5;
+    //     $('#myList li').not(':lt('+x+')').hide(400);
+    // });
+
+
+
 
 
 

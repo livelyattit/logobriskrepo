@@ -174,7 +174,7 @@ body.home {
 
 .header-logo {
     /*! margin-top: -22px; */
-    margin-top: -14px;
+    margin-top: -42px;
     transition: 0.3s all ease;
 }
 
@@ -228,10 +228,12 @@ body.home {
 }
 
 .header-logo img {
-    width: 230px;
+    width: 150px;
     height: auto;
     transition: 0.5s ease;
     transform: scale(1);
+    position: relative;
+    top: 0;
 }
 
 .header-contact-info:after {
@@ -758,7 +760,8 @@ ul.responsive-nav-contact li a i {
 
 /*header responsive css end*/
 body.scrolling .header-logo img {
-    transform: scale(0.7);
+    transform: scale(0.5);
+    top: 18px;
 }
 
 body.scrolling .header-logo {}
@@ -1601,7 +1604,7 @@ section.pricing-section .simplebar-content {
     -webkit-justify-content: center;
     justify-content: center;
     width: 100%;
-    margin: 0 auto 3em;
+    margin: 0 auto;
     max-width: 1170px;
 }
 
@@ -2531,7 +2534,7 @@ div#requestQuoteModal button.login100-form-btn:hover {
 }
 
 #filters {
-    margin: 50px auto 40px;
+    margin: 10px auto 70px;
     padding: 0;
     list-style: none;
     text-align: center;
@@ -2556,11 +2559,11 @@ div#requestQuoteModal button.login100-form-btn:hover {
     cursor: pointer;
     background: #ffffff;
     border-bottom: 1px solid #ff9184;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: uppercase;
     /* border-radius: 40px; */
+    font-size: 16px;
 }
-
 #filters li span.active {
     background: #f7351d;
     color: #fff;
@@ -3047,7 +3050,7 @@ footer .our-copywrite .back-to-top .circle i img {
 }
 
 img.fott-logo {
-    width: 100%;
+    width: 146px;
 }
 
 footer .page-linking ul {
@@ -3638,7 +3641,7 @@ section.brand_area .call-now p {
 }
 
 section.brand_area h3 {
-    font-size: 27px;
+    font-size: 25px;
     color: #253278;
     font-weight: 900;
     line-height: 32px;
@@ -4184,7 +4187,7 @@ section#website-portfolio .card:hover {
 
 section.video-types {
     padding-top: 70px;
-    padding-bottom: 70px;
+    padding-bottom: 0px;
 }
 
 section.video-types h2 {
@@ -4192,8 +4195,8 @@ section.video-types h2 {
 }
 
 section.video-types .video-type {
-    height: 300px;
-    display: flex;
+  /*  height: 300px;*/
+    display: block;
     align-items: flex-end;
     padding-left: 1.25rem;
     background: #fff;
@@ -4201,16 +4204,19 @@ section.video-types .video-type {
 }
 
 section.video-types .video-type h3 {
-    font-size: 40px;
-    font-weight: 900;
-    color: #ffffffa1;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
     text-align: left;
-    margin-bottom: 40px;
-    background: #2980b9; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /*margin-bottom: 40px;
+    background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);
+    /* background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa); */
+    /*-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;*/
+    text-align: center;
+    padding: 10px 0;
+    text-transform: uppercase;
+	background: #253278;
 }
 
 section.video-types .container {
@@ -4225,9 +4231,9 @@ section.video-types .video-type h3 span {
 section.video-types .video-type-wrap {
     padding: 3px;
     margin-bottom: 28px;
-    background: #2980b9;
+    /*background: #2980b9;
     background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);
-    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #6dd5fa);*/
     border-radius: 10px;
     transition: 0.3s ease;
 }
@@ -4416,4 +4422,34 @@ path.ytp-large-play-button-bg {
     fill: #f00;
 }
 
+img.suits {
+    height: auto;
+    /* width: 480px; */
+}
+section.pricing-section {
+    background: #f6f6f6;
+	padding-bottom: 50px;
+}
+h3.pric {
+    font-size: 41px;
+    line-height: 55px;
+    margin-bottom: 35px;
+    font-family: 'Fira sans', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    color: #437bbd;
+    text-transform: uppercase;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(50%, #f7e9f9), color-stop(50%, transparent));
+    background-image: -webkit-linear-gradient(bottom, #f7e9f9 50%, transparent 50%);
+    background-image: linear-gradient(0deg, #53e194 -44%, #fd353500 50%);
+    display: inline-block;
+    width: 100%;
+    font-family: 'Lobster Two', cursive;
+    background: unset;
+    color: #f7351d;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+	text-align: center;
+    padding-top: 40px;
+}
 /* Video Page End */

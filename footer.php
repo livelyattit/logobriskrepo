@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="/"> <img class="fott-logo" src="images/logobrisk-white.png" alt="LOGOBRISK"> </a>
+                    <a href="/"> <img class="fott-logo" src="images/logobrisk-white2.png" alt="LOGOBRISK"> </a>
                 </div>
                 <div class="col-md-5 ">
                     <div class="cta">
