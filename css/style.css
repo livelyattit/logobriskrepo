@@ -4193,20 +4193,41 @@ section#website-portfolio .card:hover {
 section#website-more-desc {
     padding-top: 70px;
     padding-bottom: 60px;
-    text-align: center;
-    background: #FF512F;  /* fallback for old browsers */
+    /* text-align: center; */
+    /* background: #FF512F; */  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #DD2476, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #DD2476, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: linear-gradient(to right, #fdb71d38, #ffffff); */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #b3b3fc0a;
+    background-image: url(../images/fonda-abstract.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right center;
+}
+
+.img-wrapper img {
+    width: 100%;
 }
 
 section#website-more-desc p {
       /* Chrome 10-25, Safari 5.1-6 */
        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-      font-size: 17px;
+      font-size: 20px;
       font-family: "Poppins", sans-serif;
-      font-weight: 300;
-      color: #ffffff;
-      line-height: 29px;
+      font-weight: 500;
+      color: #44525a;
+      line-height: 38px;
+      font-style: normal;
+}
+
+img.img-questions {
+    width: 100%;
+    height: auto;
+    /* box-shadow: 40px 10px 32px #ffb5160a; */
+    padding: 10px;
+    background: transparent;
+}
+
+section#website-more-desc p {
 }
 
 section#website-portfolio {/* padding-top: 69px; */overflow: visible;}

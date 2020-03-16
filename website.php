@@ -124,16 +124,38 @@ Acquire a classic and flawless custom website design services uplift your online
 
                 <section id="website-more-desc" class="section">
                     <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-                                <p>
-                                    Many of our customers faced a poor and amateur round first time and that’s why they approach us for redevelop their website. LogoBrisk appreciate resources and time constraints of small business and hence, assure you that being part of our project team you will create a winner for your business.
-                                </p>
-                                <p>
-                                    Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
-                                </p>
+                        <div class="inner-section inner-section1">
+                            <div class="row align-items-center">
+                                <div class="col-8">
+                                    <p>
+                                        Many of our customers faced a poor and amateur round first time and that’s why they approach us for redevelop their website. LogoBrisk appreciate resources and time constraints of small business and hence, assure you that being part of our project team you will create a winner for your business.
+                                    </p>
+                                </div>
+                                <div class="col-4">
+                                    
+                                    <div class="img-wrapper">
+                                            <img class="img-questions" src="./images/questions.png" width="499">
+                                        </div>
+                                    </div>
                             </div>
                         </div>
+                        <div class="inner-section inner-section1">
+                            <div class="row align-items-center">
+                                <div class="col-4">
+                                    
+                                <div class="img-wrapper">
+                                        <img class="img-acc" src="./images/acc.svg" width="499">
+                                    </div>
+                                </div>
+                                <div class="col-8">
+                                    
+                                    <p>
+                                        Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </section>
 
