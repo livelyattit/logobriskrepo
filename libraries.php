@@ -150,7 +150,7 @@
 
 
     var size_li = $("#website-portfolio .card").length;
-    var x=3;
+    var x=6;
     $('#website-portfolio .card:lt('+x+')').css({"opacity": "1", "height":"400px", "margin-bottom": "30px"});
     $('#website-portfolio .card:lt('+x+') img').css({"height":"400px"});
     $('#loadMoreWeb').click(function () {
