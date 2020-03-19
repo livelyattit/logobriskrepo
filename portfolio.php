@@ -41,381 +41,455 @@
 
                     <div class="port-gall">
                         <div class="container">
-                            <h3> Our Portfolio </h3>
+                            <h3 class="pric"> Our Portfolio </h3>
                             <div class="row">
                                 <div class="col-12">
                                     <div class="portfolio-comp">
                                         <ul id="filters" class="clearfix">
-                                            <li><span class="filter active" data-filter=".app, .card, .icon, .logo, .web">All</span></li>
-                                            <li><span class="filter" data-filter=".app">App</span></li>
-                                            <li><span class="filter" data-filter=".card">Card</span></li>
-                                            <li><span class="filter" data-filter=".icon">Icon</span></li>
-                                            <li><span class="filter" data-filter=".logo">Logo</span></li>
-                                            <li><span class="filter" data-filter=".web">Web</span></li>
+                                            <!--<li><span class="filter" data-filter=".2d-cartoon, .whiteboard-video, .motion-graphics, .info-graphics, .kinetic-typography, .animated-logo">All</span></li>-->
+                                            <li><span class="filter active" data-filter=".2d-cartoon">Logo</span></li>
+                                            <li><span class="filter" data-filter=".whiteboard-video">Wbsite</span></li>
+                                            <li><span class="filter" data-filter=".motion-graphics">Video</span></li>
                                         </ul>
                                         <div id="portfoliolist" class="portfoliolist">
 
-                                            <div class="portfolio logo" data-cat="logo">
+
+                                             <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/5.jpg">
-                                                        <img src="images/portfolios/logo/5.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Bird Document</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="HHZhquxEk18"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="7kxcpNlGphM"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="FkJHG6vDVv8"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                                       <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="bqR1CjdbkoY"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="3oVVTgAMo5U"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                             <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="a3iDSRPxDdc"></div>
+                                                    </div>
 
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio app" data-cat="app">
+
+
+                                                 <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/app/1.jpg">
-                                                        <img src="images/portfolios/app/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Visual Infography</a>
-                                                                <span class="text-category">APP</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="h1Wl2rwTIf0"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+
+
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="XGW-AK3vJpM"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+                                               <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="R3Q5hmi9Ydo"></div>
+                                                    </div>
+
+                                                </div>
+
+
+                                            </div>
+
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="671ITyS7ANk"></div>
+                                                    </div>
+
+                                                </div>
+
+                                                  </div>
+
+                                                  <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="JxJolVXQfK4"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+                                                <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="O4z1Nk-s29o"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+                                                <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="hU-Iq_imwdQ"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+                                               <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="QNrO27GgxWM"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+                                            <div class="portfolio 2d-cartoon" data-cat="2d-cartoon">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="fMtEBaN2jUc"></div>
+                                                    </div>
+
+
+                                                </div>
+
+                                                </div>
+
+
+
+
+
+
+                                 
+                                            <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="kcccR2ETg6U" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="M5hE9OrQdaE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="portfolio whiteboard-video" data-cat="whiteboard-video">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="ToeVKb7iqiA" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio web" data-cat="web">
+                                            <div class="portfolio motion-graphics" data-cat="motion-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/web/4.jpg">
-                                                        <img src="images/portfolios/web/4.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Sonor's Design</a>
-                                                                <span class="text-category">Web design</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="feKXIvifuDE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio card" data-cat="card">
+
+
+
+                                            <div class="portfolio motion-graphics" data-cat="motion-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/1.jpg">
-                                                        <img src="images/portfolios/card/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Typography Company</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="4lw5pz6JooM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio app" data-cat="app">
+                                             <div class="portfolio motion-graphics" data-cat="motion-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/app/3.jpg">
-                                                        <img src="images/portfolios/app/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Weatherette</a>
-                                                                <span class="text-category">APP</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="dau4AAfGWOA" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio card" data-cat="card">
+                                             <div class="portfolio motion-graphics" data-cat="motion-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/4.jpg">
-                                                        <img src="images/portfolios/card/4.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">BMF</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="PpF4oBls7FQ" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio card" data-cat="card">
+
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/5.jpg">
-                                                        <img src="images/portfolios/card/5.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Techlion</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="To-lGTy9IvM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="8dr5HQ0Xznc" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+                                            
+                                            
+                                            <div class="portfolio info-graphics" data-cat="info-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/1.jpg">
-                                                        <img src="images/portfolios/logo/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">KittyPic</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="Ao6Y_X4lmeE" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio app" data-cat="app">
+                                            <div class="portfolio info-graphics" data-cat="info-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/app/2.jpg">
-                                                        <img src="images/portfolios/app/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Graph Plotting</a>
-                                                                <span class="text-category">APP</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="Y2yGPNRlAD0" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio card" data-cat="card">
+                                                <div class="portfolio info-graphics" data-cat="info-graphics">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/2.jpg">
-                                                        <img src="images/portfolios/card/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">QR Quick Response</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="LDNLaKNF-ZI" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+
+
+
+                                            <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/6.jpg">
-                                                        <img src="images/portfolios/logo/6.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Mobi Sock</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="wop03DbGIAI" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+                                              <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/7.jpg">
-                                                        <img src="images/portfolios/logo/7.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Village Community Church</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="2y7TkGV-RFU" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio icon" data-cat="icon">
+                                            <div class="portfolio kinetic-typography" data-cat="kinetic-typography">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/icon/4.jpg">
-                                                        <img src="images/portfolios/icon/4.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Domino's Pizza</a>
-                                                                <span class="text-category">Icon</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                        <div class="js-lazyYT" data-youtube-id="VxdPDkj57dM" data-display-duration="true" data-display-title="true" data-parameters="rel=0"></div>
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio web" data-cat="web">
+                                            <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/web/3.jpg">
-                                                        <img src="images/portfolios/web/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Backend Admin</a>
-                                                                <span class="text-category">Web design</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/02-Record-Mania-Logo-by-Bedow-on-BPO.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio icon" data-cat="icon">
+                                             <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/icon/1.jpg">
-                                                        <img src="images/portfolios/icon/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Instagram</a>
-                                                                <span class="text-category">Icon</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/06-rocket-graphic-logo-animation.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio web" data-cat="web">
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/web/2.jpg">
-                                                        <img src="images/portfolios/web/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Student Guide</a>
-                                                                <span class="text-category">Web design</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/34de57_578409b11c984fff907c6a1dadf47523_mv2.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio icon" data-cat="icon">
+                                                 <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/icon/2.jpg">
-                                                        <img src="images/portfolios/icon/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Scoccer</a>
-                                                                <span class="text-category">Icon</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/66f51d64c6dddf26da8b50ffb89439cc.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio icon" data-cat="icon">
+                                            <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/icon/5.jpg">
-                                                        <img src="images/portfolios/icon/5.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">3D Map</a>
-                                                                <span class="text-category">Icon</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/f92eb769853253.5bbd9bff1b879.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio web" data-cat="web">
+                                                 <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/web/1.jpg">
-                                                        <img src="images/portfolios/web/1.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Note</a>
-                                                                <span class="text-category">Web design</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/Flexible-type-logo1.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/3.jpg">
-                                                        <img src="images/portfolios/logo/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Native Designers</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/flying-pig.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/4.jpg">
-                                                        <img src="images/portfolios/logo/4.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Bookworm</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/giphy.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio icon" data-cat="icon">
+
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/icon/3.jpg">
-                                                        <img src="images/portfolios/icon/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Sandwich</a>
-                                                                <span class="text-category">Icon</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/kinetic-typography-10.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/logo-animation17-480.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio card" data-cat="card">
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/card/3.jpg">
-                                                        <img src="images/portfolios/card/3.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Reality</a>
-                                                                <span class="text-category">Business card</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/logo-design-trends-2020-creative-letters-example-3.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
-                                            <div class="portfolio logo" data-cat="logo">
+                                                                           <div class="portfolio animated-logo" data-cat="animated-logo">
                                                 <div class="portfolio-wrapper">
-                                                    <a data-fancybox="portfolio" href="images/portfolios/logo/2.jpg">
-                                                        <img src="images/portfolios/logo/2.jpg" alt="" />
-                                                        <div class="label">
-                                                            <div class="label-text">
-                                                                <a class="text-title">Speciallisterne</a>
-                                                                <span class="text-category">Logo</span>
-                                                            </div>
-                                                            <div class="label-bg"></div>
-                                                        </div>
-                                                    </a>
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/original.gif">
+                                                    </div>
+
                                                 </div>
                                             </div>
 
+                                             <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/panic.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/rogie-subtle-logo-animation.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                               <div class="portfolio animated-logo" data-cat="animated-logo">
+                                                <div class="portfolio-wrapper">
+                                                    <div class="video-item">
+                                                     <img width="100%" height="260px" src="./images/gif/tenor.gif">
+                                                    </div>
+
+                                                </div>
+                                            </div>
 
                                         </div>
                                     </div>

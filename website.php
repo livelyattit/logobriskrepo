@@ -395,6 +395,9 @@ Acquire a classic and flawless custom website design services uplift your online
 
                 <section class="pricing-section">
                     <div class='pricing pricing-palden'>
+                        <h3 class="pric">Our Pricing</h3>
+                        <h4 class="pric-nex">Informative Web Packages!</h4>
+
 
                         <div class='pricing-item pricing-item-4'>
                             <div class='pricing-deco pricing-4'>
@@ -404,20 +407,27 @@ Acquire a classic and flawless custom website design services uplift your online
                                     <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                                     <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                                 </svg>
-                                <div class='pricing-price'><span class='pricing-currency'>$</span>99
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>399
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Basic Website Package</h3>
                             </div>
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
-                            </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                            <li class='pricing-feature'>1 Page Website Design</li>
+                            <li class='pricing-feature'>HTML Based</li>
+                            <li class='pricing-feature'>1 Banner Design</li>
+                            <li class='pricing-feature'>Contact/Query Form</li>
+                            <li class='pricing-feature'>3 Revisions</li>
+                            <li class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Complete Deployment</li>
+                            <li class='pricing-feature'>Complete Source Files</li>
+                            <li class='pricing-feature'>Dedicated Project Manager</li>
+                            <li class='pricing-feature'>Ownership Rights</li>
+                            <li class='pricing-feature'>Satisfaction Guarantee</li>
+                            <li class='pricing-feature'>Money Back Guarantee</li>
+                            
+                        </ul>
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
@@ -438,20 +448,33 @@ Acquire a classic and flawless custom website design services uplift your online
                                     <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                                     <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                                 </svg>
-                                <div class='pricing-price'><span class='pricing-currency'>$</span>99
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>599
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Startup Website
+                                    Package</h3>
                             </div>
+
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
-                            </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                            <li class='pricing-feature'>3 Page Website Design</li>
+                            <li class='pricing-feature'>HTML Based</li>
+                            <li class='pricing-feature'>Hover Effects</li>
+                            <li class='pricing-feature'>2 Banner Designs</li>
+                            <li class='pricing-feature'>Sliding Banner</li>
+                            <li class='pricing-feature'>2 Stock Photos</li>
+                            <li class='pricing-feature'>Contact/Query Form</li>
+                            <li class='pricing-feature'>3 Professional Email ID’s</li>
+                            <li class='pricing-feature'>6 Revisions</li>
+                            <li class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Complete Deployment</li>
+                            <li class='pricing-feature'>Complete Source Files</li>
+                            <li class='pricing-feature'>Dedicated Project Manager</li>
+                            <li class='pricing-feature'>Ownership Rights</li>
+                            <li class='pricing-feature'>Satisfaction Guarantee</li>
+                            <li class='pricing-feature'>Money Back Guarantee</li>
+                        </ul>
+                            
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
@@ -472,20 +495,33 @@ Acquire a classic and flawless custom website design services uplift your online
                                     <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                                     <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                                 </svg>
-                                <div class='pricing-price'><span class='pricing-currency'>$</span>99
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>1099
                                     <span class='pricing-period'>/ mo</span>
                                 </div>
-                                <h3 class='pricing-title'>Enterprise</h3>
+                                <h3 class='pricing-title'>Professional Website Package</h3>
                             </div>
+
                             <ul data-simplebar class='pricing-feature-list'>
-                                <li class='pricing-feature'>10 GB of space</li>
-                                <li class='pricing-feature'>Support at $5/hour</li>
-                                <li class='pricing-feature'>Full cloud access</li>
-                                <li class='pricing-feature'>1 GB of space</li>
-                                <li class='pricing-feature'>Support at $25/hour</li>
-                                <li class='pricing-feature'>Limited cloud access</li>
-                            </ul>
-                            <button class='pricing-action'>Choose plan</button>
+                           <li class='pricing-feature'>Up to 5 Pages Website Design</li>
+                           <li class='pricing-feature'>3 Stock Photos</li>
+                           <li class='pricing-feature'>3 Banner Designs</li>
+                           <li class='pricing-feature'>Sliding Banner</li>
+                           <li class='pricing-feature'>Hover Effects</li>
+                           <li class='pricing-feature'>Content Management System (WordPress)</li>
+                            <li class='pricing-feature'>5 Professional Email ID’s</li>
+                            <li class='pricing-feature'>Search Engine Submission</li>
+                           <li class='pricing-feature'>Unlimited Revisions</li>
+                           <li class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Industry specified Team of Expert Designers and Developers</li>
+                           <li class='pricing-feature'>Complete Deployment</li>
+                           <li class='pricing-feature'>Complete Source Files</li>
+                           <li class='pricing-feature'>Dedicated Project Manager</li>
+                           <li class='pricing-feature'>Ownership Rights</li>
+                           <li class='pricing-feature'>Satisfaction Guarantee</li>
+                           <li class='pricing-feature'>Money Back Guarantee</li>
+                        </ul>
+                            
+                            <button class='pricing-action'>Start Project</button>
                             <div class="package-call">
                                 <div>
                                     <h4>Speak with us</h4>
@@ -497,6 +533,176 @@ Acquire a classic and flawless custom website design services uplift your online
                                 </div>
                             </div>
                         </div>
+                        
+                        <h4 class="pric-nex afor-dow">Affordable E-Commerce Packages!</h4>
+
+                        <div class='pricing-item pricing-item-4'>
+                            <div class='pricing-deco pricing-4'>
+                                <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
+                                    <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
+                                    <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
+                                </svg>
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>1999
+                                    <span class='pricing-period'>/ mo</span>
+                                </div>
+                                <h3 class='pricing-title'>Elite Website Package</h3>
+                            </div>
+
+<ul data-simplebar class='pricing-feature-list'>
+                            <li class='pricing-feature'>Unique 5 Pages Website Design</li>
+                           <li class='pricing-feature'>Custom, Interactive, Dynamic &amp; High End Web Design</li>
+                            <li class='pricing-feature'>Custom WordPress Development</li>
+                           <li class='pricing-feature'>5 Stock Images</li>
+                          <li class='pricing-feature'>5 Banner Designs</li>
+                           <li class='pricing-feature'>Sliding Banners</li>
+                          <li class='pricing-feature'>Unlimited Revisions</li>
+                            <li class='pricing-feature'>Special Hoover Effects</li>
+                            <li class='pricing-feature'>Content Management System (WordPress)</li>
+                            <li class='pricing-feature'>Mobile Responsive</li>
+                            <li class='pricing-feature'>Online Appointment/Booking/Scheduling/Online Ordering Integration (If Required)</li>
+                            <li class='pricing-feature'>5 Professional Email ID’s</li>
+                            <li class='pricing-feature'>Google Friendly Sitemap</li>
+                           <li class='pricing-feature'>Search Engine Submission</li>
+                            <li class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Industry specified Team of Expert Designers and Developers</li>
+                            <li class='pricing-feature'>Complete Deployment</li>
+                            <li class='pricing-feature'>Complete Source Files</li>
+                            <li class='pricing-feature'>Dedicated Project Manager</li>
+                            <li class='pricing-feature'>Ownership Rights</li>
+                            <li class='pricing-feature'>Satisfaction Guarantee</li>
+                            <li class='pricing-feature'>Money Back Guarantee</li>
+                        </ul>
+            
+                            <button class='pricing-action'>Start Project</button>
+                            <div class="package-call">
+                                <div>
+                                    <h4>Speak with us</h4>
+                                    <a href="tel:+1-222-0349">+1-222-0349</a>
+                                </div>
+                                <div>
+                                    <h4>Want to discuss?</h4>
+                                    <a href="javascript:;">Live Chat Now</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='pricing-item pricing-item-5'>
+                            <div class='pricing-deco pricing-5'>
+                                <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
+                                    <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
+                                    <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
+                                </svg>
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>2899
+                                    <span class='pricing-period'>/ mo</span>
+                                </div>
+                                <h3 class='pricing-title'>Identity Website
+Package</h3>
+                            </div>
+
+                            <ul data-simplebar class='pricing-feature-list'>
+                            <li class='pricing-feature'>10 Unique Pages Website Design</li>
+                            <li class='pricing-feature'>Custom, Interactive, Dynamic &amp; High End Design</li>
+                            <li class='pricing-feature'>Customize WordPress (or) PHP Development</li>
+                            <li class='pricing-feature'>Custom E-Commerce Design</li>
+                            <li class='pricing-feature'>Interactive Sliding Banners</li>
+                            <li class='pricing-feature'>10 Stock Images</li>
+                            <li class='pricing-feature'>10 Banner Designs</li>
+                            <li class='pricing-feature'>Special Hoover Effects</li>
+                            <li class='pricing-feature'>Unlimited Revisions</li>
+                            <li class='pricing-feature'>>Content Management System (WordPress or Custom)</li>
+                            <li class='pricing-feature'>Mobile Responsive</li>
+                            <li class='pricing-feature'>Online Appointment/Booking/Scheduling/Online Ordering Integration (Optional)</li>
+                            <li class='pricing-feature'>Online Payment Integration (Optional)</li>
+                            <li class='pricing-feature'>10 Professional Email ID’s</li>
+                            <li class='pricing-feature'>Google Friendly Sitemap</li>
+                            <li class='pricing-feature'>Search Engine Submission</li>
+                            <li class='pricing-feature'> class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Industry specified Team of Award Winning Designers and Developers</li>
+                            <li class='pricing-feature'>Complete Deployment</li>
+                            <li class='pricing-feature'>Complete Source Files</li>
+                            <li class='pricing-feature'>Dedicated Project Manager</li>
+                            <li class='pricing-feature'>Ownership Rights</li>
+                            <li class='pricing-feature'>Satisfaction Guarantee</li>
+                            <li class='pricing-feature'>Money Back Guarantee</li>
+                        </ul>
+                            <button class='pricing-action'>Start Project</button>
+                            <div class="package-call">
+                                <div>
+                                    <h4>Speak with us</h4>
+                                    <a href="tel:+1-222-0349">+1-222-0349</a>
+                                </div>
+                                <div>
+                                    <h4>Want to discuss?</h4>
+                                    <a href="javascript:;">Live Chat Now</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='pricing-item pricing-item-6'>
+                            <div class='pricing-deco pricing-6'>
+                                <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
+                                    <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--2' d='M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729&#x000A;	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z' fill='#FFFFFF' opacity='0.6'></path>
+                                    <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
+                                    <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
+                                </svg>
+                                <div class='pricing-price'><span class='pricing-currency'>$</span>4150
+                                    <span class='pricing-period'>/ mo</span>
+                                </div>
+                                <h3 class='pricing-title'>Corporate Website
+Package</h3>
+                            </div>
+
+
+                        <ul data-simplebar class='pricing-feature-list'>
+                            <li class='pricing-feature'>15 to 20 Unique Pages Website Design</li>
+                            <li class='pricing-feature'>Custom Made, Interactive, Dynamic &amp; High End Design</li>
+                           <li class='pricing-feature'>Customized WordPress &amp; PHP Development</li>
+                            <li class='pricing-feature'>Interactive Sliding Banners</li>
+                            <li class='pricing-feature'>Custom E-Commerce Design</li>
+                            <li class='pricing-feature'>15 Stock Images</li>
+                            <li class='pricing-feature'>Unlimited Revisions</li>
+                            <li class='pricing-feature'>Special Hoover Effects</li>
+                            <li class='pricing-feature'>Content Management System</li>
+                            <li class='pricing-feature'>Online Appointment/Booking/Scheduling/Online Ordering Integration (Optional)</li>
+                            <li class='pricing-feature'>Online Payment Integration (Optional)</li>
+                            <li class='pricing-feature'>Multi Lingual (Optional)</li>
+                            <li class='pricing-feature'>Custom Dynamic Forms (Optional)</li>
+                            <li class='pricing-feature'>Signup Area (For Newsletters, Offers etc.)</li>
+                            <li class='pricing-feature'>Search Bar</li>
+                            <li class='pricing-feature'>Live Feeds of Social Networks integration (Optional)</li>
+                            <li class='pricing-feature'>Mobile Responsive</li>
+                            <li class='pricing-feature'>Up to 10 Professional Email ID’s</li>
+                            <li class='pricing-feature'>Google Friendly Sitemap</li>
+                            <li class='pricing-feature'>Search Engine Submission</li>
+                            <li class='pricing-feature'>Complete W3C Certified HTML</li>
+                            <li class='pricing-feature'>Award Winning Designers &amp; Developers</li>
+                            <li class='pricing-feature'>Complete Deployment</li>
+                            <li class='pricing-feature'>Complete Source Files</li>
+                            <li class='pricing-feature'>Dedicated Project Manager</li>
+                            <li class='pricing-feature'>Ownership Rights</li>
+                            <li class='pricing-feature'>Satisfaction Guarantee</li>
+                            <li class='pricing-feature'>Money Back Guarantee</li>
+                        </ul>
+                            <button class='pricing-action'>Start Project</button>
+                            <div class="package-call">
+                                <div>
+                                    <h4>Speak with us</h4>
+                                    <a href="tel:+1-222-0349">+1-222-0349</a>
+                                </div>
+                                <div>
+                                    <h4>Want to discuss?</h4>
+                                    <a href="javascript:;">Live Chat Now</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </section>
 

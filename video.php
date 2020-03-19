@@ -29,8 +29,9 @@
                                 <p>
                                     LogoBrisk focuses on a team of individualists. Each team member has a say in conceiving innovative ideas for the videos. We have our expertise in creating best quality videos and timely completion of the projects.</p>
                                 Our team focuses on being wild and innovative, imaginative and limitless when it comes to cracking down a concept for a video. It becomes our prime agenda to create the best version of what is required by our clients. </p>
-                                <!-- <p>We let the nature into our work spaces to create green and fresh working environment, uplifting the spirits of our team. High-functioning and efficient working facility enables our team members to work in a constantly active environment. Our server facility with a high security end provides the team with the ease of uploading the videos in HD quality. High speed internet facility amplifies the working speed and fulfil our professional needs. Our spacious cafeteria becomes the hub that gathers our team members for all lunches.
-                                    <p>Along with all these facilities, our work space becomes the most exciting place to think, work and thrive. </p> -->
+                                <p>We let the nature into our work spaces to create green and fresh working environment, uplifting the spirits of our team. High-functioning and efficient working facility enables our team members to work in a constantly active environment. Our server facility with a high security end provides the team with the ease of uploading the videos in HD quality.</p>
+                                <!-- High speed internet facility amplifies the working speed and fulfil our professional needs. Our spacious cafeteria becomes the hub that gathers our team members for all lunches.
+                                   <p>Along with all these facilities, our work space becomes the most exciting place to think, work and thrive. </p> -->
 
                                 </p>
 

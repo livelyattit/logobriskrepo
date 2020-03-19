@@ -47,7 +47,7 @@
                     <div class="col-9">
                         <div class="push-right">
                             <nav class="header-menu">
-                                <li class="menu-item"><a href="/">LOGO DESIGN</a></li>
+                                <li class="menu-item"><a href="home.php">LOGO DESIGN</a></li>
                                 <li class="menu-item"><a href="website.php">WEBSITE</a></li>
                                 <li class="menu-item"><a href="video.php">VIDEO</a></li>
                                 <li class="menu-item"><a href="portfolio.php">PORTFOLIO</a></li>
