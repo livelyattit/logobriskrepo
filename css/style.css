@@ -263,7 +263,7 @@ body.home {
     /*color: #fff;
     background-image: linear-gradient(45deg, #f51414, #ffcf62);
 background: #000;*/
-    color: #EA3593;
+    color: #00b8ad;
 }
 
 .header-primary .header-menu li a {
@@ -283,7 +283,7 @@ background: #000;*/
 .header-primary .header-menu li a:hover {
     color: #ffffff;
     /* background-image: linear-gradient(45deg, #f51414, #ffcf62); */
-    /*background: #000;*/
+    /* background: #000; */
     text-decoration: none;
     transition: all 0.3s ease;
     background: #f7351d;
@@ -1300,6 +1300,11 @@ a.txt2.hov1 {
     background: #333333;
     color: #fff !important;
 }
+#section-intro img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 
 .intro-video .hero__background:before {
@@ -1307,10 +1312,10 @@ a.txt2.hov1 {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url(https://cdnjs.cloudflare.com/ajax/libs/vegas/2.3.1/overlays/03.png);
+    /* background: url(https://cdnjs.cloudflare.com/ajax/libs/vegas/2.3.1/overlays/03.png); */
     z-index: 1;
-    opacity: 0.4;
-    background-color: #43507d;
+    opacity: 0.6;
+    background-color: #001767;
 }
 
 #section-intro .container {
@@ -1338,7 +1343,7 @@ a.txt2.hov1 {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     color: #fff;
-    padding-bottom: 4px;
+    padding-bottom: 7px;
 }
 
 #section-intro ul li:before {
@@ -1354,6 +1359,7 @@ a.txt2.hov1 {
     overflow: hidden;
     width: 100%;
     display: block;
+    line-height: 1;
 }
 
 
@@ -2217,8 +2223,8 @@ section.lindustry-section ul.indus li a:hover {
 
 
 section#testimonials {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 85px;
+    padding-bottom: 85px;
     /* background: url(../images/diamondpattern.png) no-repeat; */
     /* background-position: 65% 100%; */
     /* background-size: cover; */
@@ -2345,7 +2351,7 @@ section#testimonials blockquote:before {
     left: -30px;
     top: 30px;
     opacity: 0.3;
-    color: #f67167;
+    color: #8a8989;
 }
 
 section#testimonials blockquote:before {
@@ -3740,6 +3746,7 @@ section.brand_area h3 {
 
 section.page-header h1 strong {
     font-weight: 700;
+    color: inherit;
 }
 
 section.page-header {
@@ -3763,22 +3770,27 @@ section.page-header * {
 
 section.page-header h1.abs-head {
     position: absolute;
-    bottom: 0;
+    bottom: -45px;
     left: 0;
-    font-size: 104px;
+    font-size: 50vh;
     font-weight: 700;
     letter-spacing: 4px;
-    color: #ffc0bb38;
+    color: #ffc0bb1f;
     line-height: 1;
     text-transform: unset;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    margin-bottom: 0;
 }
 
 section.page-header h1 {
-    font-size: 60px;
+    font-size: 44px;
     font-weight: 300;
     line-height: 1;
     text-align: center;
     text-transform: capitalize;
+    font-family: 'Fira Sans', sans-serif;
+    color: #ffffff;
 }
 
 /* inner page common end */
@@ -3991,6 +4003,10 @@ section#website-video-samples {
     overflow: hidden;
 }
 
+section#website-video-samples .swiper-container {
+    filter: blur(2px);
+}
+
 section#website-video-samples video::-webkit-media-controls-fullscreen-button,
 section#website-video-samples video::-webkit-media-controls-play-button,
 section#website-video-samples video::-webkit-media-controls-pausebutton {
@@ -4062,11 +4078,10 @@ section#website-about {
 }
 
 .web-dribble-desc h2 {
-    text-transform: capitalize;
-    font-size: 38px;
-    font-weight: 600;
+    font-size: 30px;
+    font-weight: 700;
     margin-bottom: 21px;
-    line-height: 52px;
+    line-height: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
@@ -4075,23 +4090,23 @@ section#website-about {
     font-size: 15px;
     font-weight: 300;
     letter-spacing: 0.5px;
-    line-height: 26px;
+    line-height: 28px;
 }
 
 .web-dribble-desc .content {
     background: #13154b9c;
-    padding: 86px 20px 50px;
+    padding: 86px 38px 50px;
     text-align: center;
-    max-width: 830px;
+    max-width: 825px;
     margin: 0 auto;
     width: 100%;
-    border: 1px solid #ffffff5e;
+    border: 1px solid #ffffff;
     position: relative;
     z-index: 1;
-    box-shadow: -20px 20px 1px #160050ab;
+    box-shadow: 17px 20px 1px #ffffff1f;
     background: #C33764;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #1D2671, #C33764);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #1d2671a1, #c337648f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #1d2a98bd, #e82626ad); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .web-dribble-desc:before {
@@ -4101,23 +4116,29 @@ section#website-about {
     height: 100%;
     background: url(https://cdnjs.cloudflare.com/ajax/libs/vegas/2.3.1/overlays/03.png);
     z-index: 1;
-    opacity: 0.4;
+    opacity: 0.8;
     background-attachment: fixed;
+    filter: blur(10px);
 }
 
 section#website-about h2 {
     color: #f7351d;
-    font-size: 36px;
-    font-family: 'Lobster Two', cursive;
-    line-height: 41px;
+    font-size: 30px;
+    line-height: 39px;
     margin-bottom: 33px;
-    font-weight: bold;
+    font-weight: 600;
     text-align: left;
     display: inline-block;
     font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     position: relative;
 }
+
+section#website-about h2 strong {
+    color: #223278;
+    font-weight: 700;
+}
+
 
 section#website-about h2:before {
     content: '';
@@ -4154,7 +4175,7 @@ section#website-portfolio .card {
     overflow: hidden;
     margin-bottom: 20px;
     border: 1px solid #dfdbff;
-    border-radius: 40px;
+    border-radius: 4px;
     box-shadow: 0 10px 30px #14164e45;
     transition: 0.5s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     position: relative;
@@ -4225,9 +4246,6 @@ section#website-more-desc p {
 img.img-questions {
     width: 100%;
     height: auto;
-    /* box-shadow: 40px 10px 32px #ffb5160a; */
-    padding: 10px;
-    background: transparent;
 }
 
 section#website-more-desc p {
@@ -4276,6 +4294,24 @@ section#website-portfolio .row {
 
 section#website-portfolio .container {
     padding-bottom: 60px;
+}
+
+section#website-more-desc h2 {
+    font-weight: 700;
+    color: #253278;
+    font-size: 34px;
+    display: inline-block;
+}
+
+section#website-more-desc h2:after {
+    content: '';
+    position: relative;
+    display: flex;
+    border-bottom: 4px solid #f7351d;
+    bottom: -5px;
+    width: 90px;
+    left: 0px;
+    height: 4px;
 }
 
 /* Website Page End */
@@ -4526,7 +4562,8 @@ img.suits {
 }
 section.pricing-section {
     background: #f6f6f6;
-	padding-bottom: 50px;
+    padding-bottom: 50px;
+    padding-top: 70px;
 }
 
 h3.pric {
@@ -4549,31 +4586,21 @@ h3.pric {
     font-family: 'Poppins', sans-serif;
     position: relative;
     text-align: center;
-    padding-top: 40px;
 }
 
 h4.pric-nex {
     font-size: 33px;
     line-height: 55px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
     font-family: 'Fira sans', sans-serif;
     font-weight: bold;
-    text-align: left;
-    color: #437bbd;
-    text-transform: uppercase;
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(50%, #f7e9f9), color-stop(50%, transparent));
-    background-image: -webkit-linear-gradient(bottom, #f7e9f9 50%, transparent 50%);
-    background-image: linear-gradient(0deg, #53e194 -44%, #fd353500 50%);
+    color: #42a8ed;
     display: inline-block;
     width: 100%;
-    font-family: 'Lobster Two', cursive;
     background: unset;
-    color: #4c4c4c;
-    font-family: 'Poppins', sans-serif;
     position: relative;
     text-align: center;
-    padding-top: -10px;
-    text-transform: lowercase;
+    text-transform: capitalize;
 }
 #portfoliolist .portfolio {
     border: 1px solid #efefef;
@@ -4595,31 +4622,6 @@ video.video-about {
 .afor-dow {
     padding-top: 40px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Video Page End */
