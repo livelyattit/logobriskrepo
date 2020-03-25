@@ -36,10 +36,11 @@
                 <section id="section-intro" class="section">
                     <div class="intro-video">
                         <div class="hero__background">
-                            <video autoplay="" loop="" muted="" poster="./images/hero-banner.webp">
+                            <img src="images/VIdeo-banner.png">
+                            <!--<video autoplay="" loop="" muted="" poster="./images/hero-banner.webp">
                                 <source src="./images/hero-video.webm" type="video/webm">
                                 <source src="./images/hero-video-mob.mp4" type="video/mp4">
-                            </video>
+                            </video>-->
                         </div>
                     </div>
                     <div class="container">

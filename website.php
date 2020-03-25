@@ -15,7 +15,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <h1>Our Attractive Websites Portfolio</h1>
+                                <h1>Our <strong>Attractive Websites</strong> Portfolio</h1>
                             </div>
                         </div>
                     </div>
@@ -25,7 +25,7 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-6">
-                                <h2>Eye-Catching and Responsive Website Development Service by LogoBrisk</h2>
+                                <h2>Eye-Catching and Responsive Website Development Service by <strong>Logo Brisk</strong></h2>
                                 <p>
                                     Developing custom website is not a child. It is the combination of art, science & technology. Companies who are offering website design services they must get both the conceptual studies in accurate proportions for a robust online presence. Attractive website design results in an entice the visitors to review web design, along with the competence to deliver the promised quality.
                                 </p>
@@ -127,6 +127,7 @@ Acquire a classic and flawless custom website design services uplift your online
                         <div class="inner-section inner-section1">
                             <div class="row align-items-center">
                                 <div class="col-8">
+                                    <h2>Our Relationship with Clients</h2>
                                     <p>
                                         Many of our customers faced a poor and amateur round first time and that’s why they approach us for redevelop their website. LogoBrisk appreciate resources and time constraints of small business and hence, assure you that being part of our project team you will create a winner for your business.
                                     </p>
@@ -148,7 +149,7 @@ Acquire a classic and flawless custom website design services uplift your online
                                     </div>
                                 </div>
                                 <div class="col-8">
-                                    
+                                    <h2>How We Value Your Needs</h2>
                                     <p>
                                         Acquire a classic and flawless custom website design services uplift your online business. We offer affordable web design including features that boost sales. Web development company has experts’ team and resources required to cater static to dynamic and custom web design services with budget-friendly packages.
                                     </p>
