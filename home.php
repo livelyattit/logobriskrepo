@@ -483,7 +483,7 @@
 
                 <section class="pricing-section">
                     <div class='pricing pricing-palden'>
- <h3 class="pric">Our Pricing</h3>
+ <h3 class="pric">Our Logo Pricing</h3>
                         <div class='pricing-item pricing-item-1'>
                             <div class='pricing-deco pricing-1'>
                                 <svg class='pricing-deco-img' enable-background='new 0 0 300 100' height='100px' id='Layer_1' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
