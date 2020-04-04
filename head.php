@@ -1,4 +1,16 @@
-<?php header('Cache-Control: max-age=31536000'); ?>
+<?php header('Cache-Control: max-age=31536000');
+
+if(!function_exists('home_url')){
+
+    function home_url($url = null){
+
+        $domain = 'http://logobrisk.local';
+        return $domain . $url;
+
+    }
+}
+
+?>
 <!doctype html>
 <html lang="en">
 
@@ -48,13 +60,13 @@ design,graphic, outstanding creative, cool, professional, photoshop, designer" /
 
 <meta property="og:site_name" content="Logo Brisk">
 
-<meta property="og:url" content="https://logobrisk.com/">
+<meta property="og:url" content="<?php echo home_url();?>">
 
 <meta property="og:description" content="Logo Brisk - Your business brand identity is what makes you stand out before everything like customers, competitors, and investors. Professional logo design will reflect your business obligations and commitments towards high quality work delivery.">
 
 <meta property="og:type" content="website">
 
-<meta property="og:image" content="https://logobrisk.com/images/logobrisk.png">
+<meta property="og:image" content="<?php echo home_url('/images/logobrisk.png');?>">
 
 
 <meta name="twitter:title" content="Logo Brisk - Professional logo design agency">
@@ -69,10 +81,10 @@ design,graphic, outstanding creative, cool, professional, photoshop, designer" /
 <meta name="twitter:image" content="https://logobrisk.com/images/logobrisk.png">
 
 
-    <link rel="stylesheet" href="./css/bundeled.css?ver=1" async>
-    <link rel="stylesheet" href="./css/swiper.css">
-    <link rel="stylesheet" href="./css/style.css?ver=1" async>
-    <link rel="stylesheet" href="./css/responsive.css?ver=1" async>
+    <link rel="stylesheet" href="<?php echo home_url('/css/bundeled.css?ver=1') ?>" async>
+    <link rel="stylesheet" href="<?php echo home_url('/css/swiper.css') ?>">
+    <link rel="stylesheet" href="<?php echo home_url('/css/style.css?ver=1') ?>." async>
+    <link rel="stylesheet" href="<?php echo home_url('/css/responsive.css?ver=1') ?>." async>
 
    
     <script>

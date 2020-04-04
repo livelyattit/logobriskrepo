@@ -19,3 +19,15 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 year"
 </IfModule>
 ## EXPIRES HEADER CACHING ##
+
+##Wordpress redirect
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?logobrisk.local$
+RewriteCond %{REQUEST_URI} !^/blog/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /blog/$1
+RewriteCond %{HTTP_HOST} ^(www.)?logobrisk.local$
+RewriteRule ^(/)?$ blog/index.php [L]
+</IfModule>

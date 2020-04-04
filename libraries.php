@@ -1,6 +1,9 @@
 
+<?php if (!function_exists('is_admin')): ?>
+    <script src="<?php echo home_url("/js/jquery-3.4.1.js")?>" type="application/javascript"></script>
+<?php endif; ?>
 
-<script src="./js/jquery-3.4.1.js" type="application/javascript"></script>
+
 <?php include "jspack.php"; ?>
 <script>
     $(document).ready(function() {

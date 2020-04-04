@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a href="/"> <img class="fott-logo" src="images/logobrisk-white2.png" alt="LOGOBRISK"> </a>
+                    <a href="<?php echo home_url()?>"> <img class="fott-logo" src="<?php echo home_url('/images/logobrisk-white2.png')?>" alt="LOGOBRISK"> </a>
                 </div>
                 <div class="col-md-5 ">
                     <div class="cta">
@@ -32,7 +32,7 @@
 
 
                         <li>
-                            <a href="/">Home</a>
+                            <a href="<?php echo home_url('/home.php')?>">Home</a>
                         </li>
                         <!--<li>
                                 <a href="#/about-us/">About Us</a>
@@ -45,33 +45,24 @@
                             </li>
                             <li><a href="/guarantee/">Our Guarantees</a></li>-->
                         <li>
-                            <a href="/contact.php">Contact</a>
+                            <a href="<?php echo home_url('/contact.php')?>">Contact</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <h4>Services</h4>
                     <ul>
-                        <li><a href="#/logo-design/">Logo Design</a></li>
-                        <li><a href="#/web-design/">Website Design</a></li>
-                        <li><a href="#/video-animation/">Video Animation</a></li>
-                        <li><a href="#/animated-logo/">Animated Logo</a></li>
+                        <li><a href="<?php echo home_url('/home.php')?>">Logo Design</a></li>
+                        <li><a href="<?php echo home_url('/website.php')?>">Website Design</a></li>
+                        <li><a href="<?php echo home_url('/video.php')?>">Video Animation</a></li>
                     </ul>
 
                 </div>
                 <div class="col-md-4 pl40">
                     <h4>Quick Links</h4>
                     <ul>
-
-
-                        <li>
-                            <a href="/pricing/">Packages</a>
-                        </li>
-
-
-                        <li>
-                            <a href="/portfolio/">Portfolio</a>
-                        </li>
+                        <li><a href="<?php echo home_url('/packages.php')?>">Packages</a></li>
+                        <li><a href="<?php echo home_url('/portfolio.php')?>">Portfolio</a></li>
                     </ul>
                 </div>
             </div>

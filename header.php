@@ -35,9 +35,9 @@
                     <div class="col-3">
                         <div class="header-logo">
                             <div class="push-left">
-                                <a href="/">
+                                <a href="<?php echo home_url()?>">
 
-                                    <img src="images/logobrisk.png" alt="LOGOBRISK">
+                                    <img src="<?php echo home_url('/images/logobrisk.png')?>" alt="LOGOBRISK">
                                 </a>
                             </div>
 
@@ -47,12 +47,12 @@
                     <div class="col-9">
                         <div class="push-right">
                             <nav class="header-menu">
-                                <li class="menu-item"><a href="home.php">LOGO DESIGN</a></li>
-                                <li class="menu-item"><a href="website.php">WEBSITE</a></li>
-                                <li class="menu-item"><a href="video.php">VIDEO</a></li>
-                                <li class="menu-item"><a href="portfolio.php">PORTFOLIO</a></li>
-                                <li class="menu-item"><a href="packages.php">PACKAGES</a></li>
-                                <li class="menu-item"><a href="contact.php">CONTACT</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/home.php')?>">LOGO DESIGN</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/website.php')?>">WEBSITE</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/video.php')?>">VIDEO</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/portfolio.php')?>">PORTFOLIO</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/packages.php')?>">PACKAGES</a></li>
+                                <li class="menu-item"><a href="<?php echo home_url('/contact.php')?>">CONTACT</a></li>
                             </nav>
                         </div>
 
@@ -70,19 +70,19 @@
 
                     <!-- The Nav Menu -->
                     <nav class="nav">
-                        <a class="nav-item" href="/">LOGO DESIGN</a>
-                        <a class="nav-item" href="website.php">WEBSITE</a>
-                        <a class="nav-item" href="video.php">VIDEO</a>
-                        <a class="nav-item" href="portfolio.php">PORTFOLIO</a>
-                        <a class="nav-item" href="packages.php">PACKAGES</a>
-                        <a class="nav-item" href="contact.php">CONTACT</a>
+                        <a class="nav-item" href="<?php echo home_url('/home.php')?>">LOGO DESIGN</a>
+                        <a class="nav-item" href="<?php echo home_url('/website.php')?>">WEBSITE</a>
+                        <a class="nav-item" href="<?php echo home_url('/video.php')?>">VIDEO</a>
+                        <a class="nav-item" href="<?php echo home_url('/portfolio.php')?>">PORTFOLIO</a>
+                        <a class="nav-item" href="<?php echo home_url('/packages.php')?>">PACKAGES</a>
+                        <a class="nav-item" href="<?php echo home_url('/contact.php')?>">CONTACT</a>
                     </nav>
 
 
                     <div class="responsive-nav-logo">
                         <a href="/">
 
-                            <img src="images/logobrisk.png" alt="LOGOBRISK">
+                            <img src="<?php echo home_url('/images/logobrisk.png')?>" alt="LOGOBRISK">
                         </a>
                     </div>
 
